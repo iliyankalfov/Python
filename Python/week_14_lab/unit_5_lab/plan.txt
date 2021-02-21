@@ -1,0 +1,17 @@
+1. A method for reading the cities with their coordinates from "Cities.txt" 
+	and returning them as a dictionary with cities as keys and values as coordinates
+
+2. A method for finding the distance between two cities
+	- using pythagorean theorem
+
+3. A method for finding the closest city when given a starting point
+	- iterating through all of the cities and using the method
+for finding the distance between the starting city and the current city
+
+4. A method for constructing the route according to the Nearest Neighbour Algorithm
+	- it returns a list with the cities ordered by the algorithm and the total length of the route
+
+5. A method for finding the best route with the cities from a given dictionary
+	- it uses the upper method for calculating the route length of every route with different starting points
+	- it returns the city with the best route according to its length
+

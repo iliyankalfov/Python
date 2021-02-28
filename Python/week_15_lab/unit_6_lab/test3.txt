@@ -1,0 +1,18 @@
+define square
+line 50 0
+line 0 -50
+line -50 0
+line 0 50
+end
+define circle
+loop 3
+oval 50 50
+move 50 50
+endloop
+end
+position 50 100
+square
+move 100 20
+square
+move 20 50
+circle

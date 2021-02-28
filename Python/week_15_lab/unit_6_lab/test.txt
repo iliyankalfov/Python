@@ -1,0 +1,5 @@
+position 50 10
+line 50 0
+line 0 50
+line -50 0
+line 0 -50

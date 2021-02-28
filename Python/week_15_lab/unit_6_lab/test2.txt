@@ -1,0 +1,12 @@
+position 50 100
+loop 10
+line 0 -100
+move 10 100
+end
+position 50 200
+loop 4
+line 40 0
+line -20 -40
+line -20 40
+move 50 0
+end

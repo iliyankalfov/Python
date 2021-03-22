@@ -1,0 +1,4119 @@
+1650,u296989,born,Gregg Blackbourne,---,---
+1650,u296990,born,Chasity Foster,---,---
+1650,u296991,born,Cletus Corey,---,---
+1650,u296992,born,Shayne Cornett,---,---
+1650,u296993,born,Braiden Starr,---,---
+1650,u296994,born,Joe Mills,---,---
+1650,u296995,born,Debby Boon,---,---
+1650,u296996,born,Alexandrina Harris,---,---
+1650,u296997,born,Cletus Corey,---,---
+1650,u296998,born,Diggory Bishop,---,---
+1650,u296999,born,Silver Christopherson,---,---
+1650,u297000,born,Leanna Derrickson,---,---
+1650,u297001,born,Roscoe Allen,---,---
+1650,u297002,born,Elisa Carlyle,---,---
+1650,u297003,born,Sonia Bond,---,---
+1650,u297004,born,Chloë Britton,---,---
+1650,u297005,born,Stacie Seward,---,---
+1650,u297006,born,Carrol Clinton,---,---
+1650,u297007,born,Trey Falconer,---,---
+1650,u297008,born,Leanna Derrickson,---,---
+1650,u297009,born,Forest Greene,---,---
+1650,u297010,born,Flanagan Noel,---,---
+1650,u297011,born,Retha Corwin,---,---
+1650,u297012,born,Sienna Bunker,---,---
+1650,u297013,born,Carmen Beverley,---,---
+1650,u297014,born,Kayden Garrard,---,---
+1650,u297015,born,Keira Jameson,---,---
+1650,u297016,born,Cali Fox,---,---
+1650,u297017,born,Meriel Reynolds,---,---
+1650,u297018,born,Joselyn Godfrey,---,---
+1650,u297019,born,Bud Seaver,---,---
+1650,u297020,born,Flanagan Noel,---,---
+1650,u297021,born,Tisha Killam-Killam,---,---
+1650,u297022,born,Travis Hyde,---,---
+1650,u297023,born,Tawnee Bronson,---,---
+1650,u297024,born,Leanna Derrickson,---,---
+1650,u297025,born,Lacey Bryson,---,---
+1650,u297026,born,Orville Cooke,---,---
+1650,u297027,born,Sonia Bond,---,---
+1650,u297028,born,Chasity Foster,---,---
+1650,u297029,born,Gregg Blackbourne,---,---
+1650,u297030,born,Carmen Beverley,---,---
+1650,u297031,born,Darian Teel,---,---
+1650,u297032,born,Viona Trengove,---,---
+1650,u297033,born,Alexandrina Harris,---,---
+1650,u297034,born,Kathlyn Gabrielson,---,---
+1650,u297035,born,Chasity Foster,---,---
+1650,u297036,born,Candyce Fear,---,---
+1650,u297037,born,Joss Odell,---,---
+1650,u297038,born,Sonia Bond,---,---
+1650,u297039,born,Sonia Bond,---,---
+1650,u297040,born,Keira Jameson,---,---
+1650,u297041,born,Tisha Killam,---,---
+1650,u297042,born,Allyn Ewart,---,---
+1650,u297043,born,Meade Kimberly,---,---
+1650,u297044,born,Juniper Law,---,---
+1650,u297045,born,Sienna Bunker,---,---
+1650,u297046,born,Genie Pound,---,---
+1650,u297047,born,Tawnee Bronson,---,---
+1650,u297048,born,Dannie Garner,---,---
+1650,u297049,born,Tamika Newell,---,---
+1650,u297050,born,Candyce Fear,---,---
+1650,u297051,born,Tamika Newell,---,---
+1650,u297052,born,Tranter Paternoster,---,---
+1650,u297053,born,Candyce Fear,---,---
+1650,u297054,born,Roscoe Allen,---,---
+1650,u297055,born,Kolton Macey,---,---
+1650,u297056,born,Teagan Porcher,---,---
+1650,u297057,born,Crew Rigby,---,---
+1650,u297058,born,Darren Jekyll,---,---
+1650,u297059,born,Sullivan Fitzroy,---,---
+1650,u297060,born,Chasity Foster,---,---
+1650,u297061,born,Trey Falconer,---,---
+1650,u297062,born,Odell Fay,---,---
+1650,u297063,born,Sonia Bond,---,---
+1650,u297064,born,Tahnee Gill,---,---
+1650,u297065,born,Gerrard Robbins,---,---
+1650,u297066,born,Lacey Bryson,---,---
+1650,u297067,born,Erin Glass,---,---
+1650,u297068,born,Bethel Wright,---,---
+1650,u297069,born,Dillan Emerson,---,---
+1650,u297070,born,Margo Walker,---,---
+1650,u297071,born,Jenny Patterson,---,---
+1650,u297072,born,Darryl Devine,---,---
+1650,u297073,born,Darren Jekyll,---,---
+1650,u297074,born,Trey Falconer,---,---
+1650,u297075,born,Lynsay Victors,---,---
+1650,u297076,born,Alexandrina Harris,---,---
+1650,u297077,born,Meriel Reynolds,---,---
+1650,u297078,born,Danita Atterberry,---,---
+1650,u297079,born,Bud Seaver,---,---
+1650,u297080,born,Carran Braddock,---,---
+1650,u297081,born,Hepsie Simen,---,---
+1650,u297082,born,Tisha Killam,---,---
+1650,u297083,born,Genie Pound,---,---
+1650,u297084,born,Shayne Cornett,---,---
+1650,u297085,born,Kayden Garrard,---,---
+1650,u297086,born,Bryanne Brinley,---,---
+1650,u297087,born,Keira Jameson,---,---
+1650,u297088,born,Shayne Cornett,---,---
+1650,u297089,born,Jamison Ewart,u297039,u297042
+1650,u297090,born,Brannon Mills,u297038,u296994
+1650,u297093,born,Orville Ewart,u297039,u297042
+1650,u297094,born,Lorrie Mills,u297038,u296994
+1650,u297097,born,Jenny Kimberly,u297021,u297043
+1650,u297098,born,Odell Kimberly,u297021,u297043
+1650,u297101,born,Odell Kimberly,u297021,u297043
+1650,u297102,born,Alexandrina Mills,u297038,u296994
+1650,u297103,born,Madge Kimberly,u297021,u297043
+1650,u297105,born,Bryanne Mills,u297038,u296994
+1650,u297107,born,Michael Kimberly,u297021,u297043
+1650,u297109,born,Harold Kimberly,u297021,u297043
+1650,u297111,born,Clifton Starr,u297081,u296993
+1650,u297112,born,Sondra Ewart,u297039,u297042
+1650,u297114,born,Travis Starr,u297081,u296993
+1650,u297117,born,Orville Kimberly,u297021,u297043
+1650,u297120,born,Eldon Mills,u297038,u296994
+1650,u297121,born,Jenny Starr,u297081,u296993
+1650,u297123,born,Kayden Starr,u297081,u296993
+1650,u297130,born,Allyn Starr,u297081,u296993
+1650,u297139,born,Chloë Ewart,u297039,u297042
+1650,u297142,born,Sonia Kimberly,u297021,u297043
+1650,u297147,born,Lacey Mills,u297038,u296994
+1650,u297148,born,Retha Mills,u297038,u296994
+1650,u297150,born,Joe Kimberly,u297021,u297043
+1650,u297156,born,Braiden Ewart,u297039,u297042
+1650,u297158,born,Marlon Kimberly,u297021,u297043
+1650,u297159,born,Carmen Mills,u297038,u296994
+1650,u297162,born,Darryl Mills,u297038,u296994
+1650,u297167,born,Eliana Starr,u297081,u296993
+1650,u297171,born,Leanna Starr,u297081,u296993
+1650,u297173,born,Viona Devine,u297035,u297072
+1650,u297174,born,Lacey Starr,u297081,u296993
+1650,u297175,born,Joselyn Starr,u297081,u296993
+1650,u297177,born,Eliana Ewart,u297039,u297042
+1650,u297178,born,Ian Mills,u297038,u296994
+1650,u297181,born,Gwenda Kimberly,u297021,u297043
+1650,u297182,born,Brannon Mills-Bond,u297038,u296994
+1650,u297183,born,Danita Devine,u297035,u297072
+1650,u297185,born,Bryanne Brinley,u297039,u297042
+1650,u297189,born,Carrol Starr,u297081,u296993
+1650,u297190,born,Ricky Kimberly,u297021,u297043
+1650,u297022,died
+1650,u297064,died
+1651,u297192,born,Orville Garrard,u297023,u297014
+1651,u297193,born,Tawnee Devine,u297035,u297072
+1651,u297194,born,Carrol Starr,u297081,u296993
+1651,u297195,born,London Cornett,u297048,u297084
+1651,u297196,born,Odell Fay,u297038,u296994
+1651,u297204,born,Carmen Kimberly,u297021,u297043
+1651,u297208,born,Candyce Ewart,u297039,u297042
+1651,u297218,born,Genie Corey,u297067,u296997
+1651,u297220,born,Trey Corey,u297050,u296991
+1651,u297097,died
+1651,u297102,died
+1651,u297109,died
+1651,u297117,died
+1651,u297120,died
+1651,u297158,died
+1651,u297162,died
+1652,u297312,born,Gregg Corey,u297067,u296997
+1652,u297314,born,Lorrie Garrard,u297023,u297014
+1652,u297315,born,Orville Kimberly,u297021,u297043
+1652,u297320,born,Margo Mills,u297038,u296994
+1652,u297332,born,Tamika Starr,u297081,u296993
+1652,u297335,born,Odell Corey,u297050,u296991
+1652,u297338,born,Tahnee Cornett,u297048,u297084
+1652,u297341,born,Drake Simons,---,---
+1652,u297342,born,Gwenda Ewart,u297039,u297042
+1652,u297364,born,Alexandrina Macey,u297066,u297055
+1652,u297403,born,Joe Falconer,u297078,u297007
+1652,u297405,born,Tranter Paternoster,---,---
+1652,u297020,died
+1652,u297098,died
+1652,u297101,died
+1652,u297123,died
+1652,u297220,died
+1653,u297450,born,Tamika Garrard,u297023,u297014
+1653,u297451,born,Joe Kimberly,u297021,u297043
+1653,u297452,born,Maurine Macey,u297066,u297055
+1653,u297453,born,Lee Corey,u297067,u296997
+1653,u297454,born,Tamika Simen,u297081,u296993
+1653,u297456,born,Clint Falconer,u297078,u297007
+1653,u297466,born,Bethel Corey,u297050,u296991
+1653,u297470,born,Joselyn Garrard,u297018,u297085
+1653,u297491,born,London Mills,u297038,u296994
+1653,u297495,born,Joss Cornett,u297048,u297084
+1653,u296998,died
+1653,u297008,died
+1653,u297076,died
+1653,u297086,died
+1653,u297147,died
+1653,u297156,died
+1653,u297174,died
+1653,u297177,died
+1653,u297189,died
+1653,u297193,died
+1653,u297194,died
+1653,u297204,died
+1653,u297218,died
+1653,u297341,died
+1654,u297604,born,Kathlyn Gabrielson,u297066,u297055
+1654,u297605,born,Tawnee Mills,u297038,u296994
+1654,u297607,born,Cullen Cornett,u297048,u297084
+1654,u297609,born,Marvin Garrard,u297023,u297014
+1654,u297626,born,Cletus Garrard,u297018,u297085
+1654,u297641,born,Dannie Corey,u297067,u296997
+1654,u297648,born,Roscoe Falconer,u297078,u297007
+1654,u297649,born,Trey Starr,u297081,u296993
+1654,u297655,born,Chasity Kimberly,u297021,u297043
+1654,u297025,died
+1654,u297074,died
+1654,u297130,died
+1654,u297150,died
+1654,u297181,died
+1654,u297315,died
+1654,u297335,died
+1655,u297768,born,Kayden Kimberly,u297021,u297043
+1655,u297771,born,Sondra Starr,u297081,u296993
+1655,u297775,born,Silver Macey,u297066,u297055
+1655,u297780,born,Alexandrina Garrard,u297023,u297014
+1655,u297786,born,Steven Falconer,u297078,u297007
+1655,u297797,born,Kolton Godfrey,u297018,u297085
+1655,u297822,born,Bud Corey,u297067,u296997
+1655,u297880,born,Retha Cornett,u297048,u297084
+1655,u297019,died
+1655,u297167,died
+1655,u297178,died
+1655,u297182,died
+1655,u297454,died
+1656,u297928,born,Bryanne Corey,u297053,u296991
+1656,u297929,born,Joselyn Garrard,u297018,u297085
+1656,u297930,born,Florrie Garrard,u297023,u297014
+1656,u297936,born,Elisa Falconer,u297078,u297007
+1656,u297945,born,Ricky Macey,u297066,u297055
+1656,u297949,born,Darryl Starr,u297081,u296993
+1656,u297950,born,Sienna Cornett,u297048,u297084
+1656,u297959,born,Kolton Corey,u297067,u296997
+1656,u297094,died
+1656,u297107,died
+1656,u297148,died
+1656,u297173,died
+1656,u297453,died
+1656,u297604,died
+1657,u298109,born,Teagan Falconer,u297078,u297007
+1657,u298110,born,Carrol Macey,u297066,u297055
+1657,u298112,born,Meade Corey,u297053,u296991
+1657,u298113,born,Keira Jameson,u297013,u297088
+1657,u298120,born,Maurine Corey,u297067,u296997
+1657,u298121,born,Clint Cornett,u297035,u296992
+1657,u298122,born,Marvin Starr,u297081,u296993
+1657,u298142,born,Lynsay Garrard,u297023,u297014
+1657,u298148,born,Bryanne Garrard,u297018,u297085
+1657,u297002,died
+1657,u297090,died
+1657,u297171,died
+1657,u297192,died
+1657,u297208,died
+1657,u297314,died
+1657,u297342,died
+1657,u297605,died
+1657,u297641,died
+1657,u297655,died
+1657,u297797,died
+1657,u297945,died
+1658,u298299,born,Joselyn Corey,u297067,u296997
+1658,u298301,born,Eliana Starr,u297081,u296993
+1658,u298320,born,Diggory Falconer,u297078,u297007
+1658,u298330,born,Shannon Corey,u297053,u296991
+1658,u298348,born,Tranter Fay,u297049,u297062
+1658,u298360,born,Lynsay Noel,u297035,u297010
+1658,u297114,died
+1658,u297159,died
+1658,u297364,died
+1658,u297452,died
+1658,u297771,died
+1658,u297936,died
+1659,u298475,born,Leanna Corey,u297053,u296991
+1659,u298476,born,Shannon Falconer,u297078,u297007
+1659,u298485,born,Shannon Corey,u297067,u296997
+1659,u298494,born,Chloë Fay,u297049,u297062
+1659,u298537,born,Juniper Starr,u297081,u296993
+1659,u298589,born,Steven Lacy,---,---
+1659,u298596,born,Sonia Macey,u297041,u297055
+1659,u297112,died
+1659,u297175,died
+1659,u297320,died
+1659,u297456,died
+1659,u297780,died
+1659,u297822,died
+1659,u297930,died
+1659,u297959,died
+1659,u298122,died
+1659,u298360,died
+1660,u298654,born,Travis Falconer,u297078,u297007
+1660,u298655,born,Retha Fay,u297049,u297062
+1660,u298665,born,Stacie Starr,u297081,u296993
+1660,u298666,born,Florrie Macey,u297041,u297055
+1660,u298681,born,Retha Corey,u297067,u296997
+1660,u297495,died
+1660,u297607,died
+1660,u297609,died
+1660,u297648,died
+1660,u297649,died
+1660,u297949,died
+1660,u298112,died
+1661,u298851,born,Brooklyn Blackbourne,u297068,u297029
+1661,u298853,born,Forest Falconer,u297078,u297007
+1661,u298857,born,Harold Fay-Newell,u297049,u297062
+1661,u298860,born,Madge Peck,u297041,u297055
+1661,u298873,born,Meriel Corey,u297067,u296997
+1661,u298882,born,Bryanne Starr,u297081,u296993
+1661,u297093,died
+1661,u297451,died
+1661,u297470,died
+1661,u297880,died
+1661,u298142,died
+1661,u298299,died
+1661,u298654,died
+1662,u299039,born,Trey Fay,u297049,u297062
+1662,u299048,born,Shannon Falconer,u297078,u297007
+1662,u299050,born,Beckham Starr,u297081,u296993
+1662,u299092,born,Juniper Blackbourne,u297068,u297029
+1662,u299096,born,Crew Corey,u297067,u296997
+1662,u299198,born,Tahnee Cornett,u297070,u296992
+1662,u297405,died
+1662,u297786,died
+1662,u298475,died
+1662,u298476,died
+1663,u299227,born,Darren Fay,u297049,u297062
+1663,u299279,born,Dannie Cornett,u297070,u296992
+1663,u299297,born,Carran Falconer,u297078,u297007
+1663,u299306,born,Cali Corey,u297067,u296997
+1663,u298113,died
+1663,u298121,died
+1663,u298485,died
+1663,u298537,died
+1663,u298589,died
+1663,u298655,died
+1663,u298853,died
+1663,u298857,died
+1664,u299460,born,Juniper Falconer,u297078,u297007
+1664,u299461,born,Brannon Fay,u297049,u297062
+1664,u299477,born,Grady Corey,u297067,u296997
+1664,u299588,born,Cullen Dean,---,---
+1664,u299662,born,Juniper Christopherson,u297030,u296999
+1664,u297111,died
+1664,u297338,died
+1664,u297403,died
+1664,u298320,died
+1664,u298860,died
+1664,u299227,died
+1665,u299689,born,Caelan Corey,u297067,u296997
+1665,u299694,born,Dannie Falconer,u297078,u297007
+1665,u299699,born,Gordon Newell,u297049,u297062
+1665,u299741,born,Tisha Killam,---,---
+1665,u299750,born,Drake Christopherson,u297030,u296999
+1665,u298110,died
+1665,u298148,died
+1665,u298596,died
+1665,u298666,died
+1665,u299048,died
+1665,u299092,died
+1666,u299909,born,Harold Christopherson,u297030,u296999
+1666,u299923,born,Brannon Blackbourne,u297012,u297029
+1666,u299925,born,Joss Fay,u297049,u297062
+1666,u299927,born,Danita Corey,u297067,u296997
+1666,u299958,born,Florrie Crawford,---,---
+1666,u300000,born,Bud Seaver,---,---
+1666,u300017,born,Carrol Abney,---,---
+1666,u298665,died
+1666,u298681,died
+1666,u298873,died
+1666,u299050,died
+1666,u299662,died
+1666,u299689,died
+1667,u300134,born,Carrol Abney,u297030,u296999
+1667,u300135,born,Judd Fay,u297049,u297062
+1667,u300169,born,Clint Blackbourne,u297012,u297029
+1667,u300204,born,Drake Corey,u297067,u296997
+1667,u300227,born,Sullivan Fitzroy,u297035,u297059
+1667,u297070,died
+1667,u297083,died
+1667,u298330,died
+1667,u299198,died
+1667,u299461,died
+1667,u299694,died
+1667,u299923,died
+1668,u300361,born,Tamika Christopherson,u297030,u296999
+1668,u300375,born,Elisa Fay,u297049,u297062
+1668,u300376,born,Braiden Fitzroy,u297035,u297059
+1668,u300400,born,Meade Corey,u297067,u296997
+1668,u300558,born,Sienna Brinley,u297185,u297072
+1668,u297626,died
+1668,u298851,died
+1668,u299925,died
+1668,u300017,died
+1668,u300135,died
+1668,u300204,died
+1669,u300591,born,Kassandra Fitzroy,u297035,u297059
+1669,u300595,born,Brooklyn Christopherson-Beverley,u297030,u296999
+1669,u300603,born,Gerrard Fay,u297049,u297062
+1669,u300607,born,Lorrie Corey,u297067,u296997
+1669,u300613,born,Brannon Devine,u297185,u297072
+1669,u297033,died
+1669,u297052,died
+1669,u297183,died
+1669,u299039,died
+1669,u299699,died
+1669,u299909,died
+1669,u300361,died
+1670,u300861,born,Michael Christopherson,u297030,u296999
+1670,u300876,born,Cali Devine,u297185,u297072
+1670,u300877,born,Merlyn Mills,u297139,u297491
+1670,u300889,born,Brannon Barret,u297067,u296997
+1670,u300896,born,Carrol Fay,u297049,u297062
+1670,u300910,born,Kathlyn Robbins,u297332,u297065
+1670,u299477,died
+1670,u299741,died
+1670,u299958,died
+1670,u300595,died
+1671,u301106,born,Marlon Langley,---,---
+1671,u301109,born,Brannon Fay,u297049,u297062
+1671,u301114,born,Joselyn Christopherson,u297030,u296999
+1671,u301118,born,Elisa Corey,u297067,u296997
+1671,u301121,born,Grady Mills,u297139,u297491
+1671,u301128,born,Crew Starr,u297332,u297065
+1671,u301150,born,Stacie Devine,u297185,u297072
+1671,u301339,born,Lee Seaver,u297142,u297079
+1671,u300227,died
+1671,u300400,died
+1672,u301373,born,Caelan Fay,u297049,u297062
+1672,u301378,born,Dannie Mills,u297139,u297491
+1672,u301379,born,Tawnee Bronson,u297030,u296999
+1672,u301386,born,Bud Seaver,u297121,u297768
+1672,u301391,born,Gerrard Devine,u297185,u297072
+1672,u301393,born,Darian Robbins,u297332,u297065
+1672,u301468,born,Brooklyn Seaver,u297142,u297079
+1672,u297006,died
+1672,u297775,died
+1672,u300169,died
+1672,u301114,died
+1672,u301118,died
+1673,u301631,born,Leanna Christopherson,u297030,u296999
+1673,u301632,born,Tahnee Seaver,u297142,u297079
+1673,u301633,born,Juniper Mills,u297139,u297491
+1673,u301635,born,Marlon Kimberly,u297121,u297768
+1673,u301644,born,Genie Devine,u297185,u297072
+1673,u301654,born,Grady Robbins,u297332,u297065
+1673,u301678,born,Clifton Fay,u297049,u297062
+1673,u297088,died
+1673,u299279,died
+1673,u301386,died
+1674,u301917,born,Tamika Seaver,u297142,u297079
+1674,u301919,born,Orville Robbins,u297332,u297065
+1674,u301920,born,Retha Christopherson,u297030,u296999
+1674,u301945,born,Darren Fay,u297049,u297062
+1674,u301977,born,Bethel Devine,u297185,u297072
+1674,u301996,born,Darren Mills,u297139,u297491
+1674,u302032,born,Jamison Ogden-Ogden,---,---
+1674,u302065,born,Madge Kimberly,u297121,u297768
+1674,u297087,died
+1674,u297190,died
+1674,u299460,died
+1674,u300558,died
+1674,u300607,died
+1674,u300613,died
+1674,u300889,died
+1674,u301378,died
+1674,u301393,died
+1674,u301468,died
+1675,u302192,born,Merit Devine,u297185,u297072
+1675,u302194,born,Viona Robbins,u297332,u297065
+1675,u302197,born,Darryl Mills,u297139,u297491
+1675,u302207,born,Beckham Seaver,u297142,u297079
+1675,u302231,born,Bud Kimberly,u297121,u297768
+1675,u302232,born,Gypsy Fay,u297049,u297062
+1675,u302351,born,Madge Christopherson,u297030,u296999
+1675,u296990,died
+1675,u301109,died
+1675,u301631,died
+1675,u301632,died
+1675,u301635,died
+1675,u301917,died
+1675,u301977,died
+1676,u302469,born,Ella Mills,u297139,u297491
+1676,u302472,born,Carran Robbins,u297332,u297065
+1676,u302480,born,Harold Christopherson,u297030,u296999
+1676,u302505,born,Clifton Devine,u297185,u297072
+1676,u302511,born,Carmen Kimberly,u297121,u297768
+1676,u297010,died
+1676,u301121,died
+1676,u301644,died
+1676,u301920,died
+1676,u302351,died
+1677,u302753,born,Allyn Christopherson,u297030,u296999
+1677,u302756,born,Danita Kimberly,u297121,u297768
+1677,u302777,born,Lorrie Ryland,u297185,u297072
+1677,u302789,born,Ricky Cornett,u297105,u297084
+1677,u302790,born,Elisa Mills,u297139,u297491
+1677,u302793,born,Merit Robbins,u297332,u297065
+1677,u302975,born,Kolton Cornett-Fay,u298494,u297195
+1677,u297011,died
+1677,u297027,died
+1677,u297040,died
+1677,u297046,died
+1677,u297069,died
+1677,u300603,died
+1677,u301654,died
+1678,u302999,born,Cali Cornett,u298494,u297195
+1678,u303001,born,Ellington Christopherson,u297030,u296999
+1678,u303002,born,Bethel Robbins,u297332,u297065
+1678,u303003,born,Ella Cornett,u297105,u297084
+1678,u303009,born,Harold Kimberly,u297121,u297768
+1678,u303027,born,Merlyn Mills,u297139,u297491
+1678,u303052,born,Judd Devine,u297185,u297072
+1678,u303086,born,Eldon Ewart-Garrard,u297929,u297089
+1678,u297024,died
+1678,u297029,died
+1678,u297036,died
+1678,u301128,died
+1678,u301996,died
+1678,u302032,died
+1678,u302194,died
+1678,u302472,died
+1679,u303227,born,Chloë Cornett,u297105,u297084
+1679,u303230,born,Gypsy Robbins-Starr,u297332,u297065
+1679,u303232,born,Braiden Cornett,u298494,u297195
+1679,u303235,born,Clint Devine,u297185,u297072
+1679,u303237,born,Hepsie Mills,u297139,u297491
+1679,u303239,born,Debby Ewart,u297929,u297089
+1679,u303256,born,Trey Christopherson,u297030,u296999
+1679,u303315,born,Hepsie Kimberly,u297121,u297768
+1679,u297061,died
+1679,u300591,died
+1679,u300861,died
+1679,u302753,died
+1679,u302756,died
+1679,u302790,died
+1680,u303441,born,Tisha Falconer,u297142,u299297
+1680,u303445,born,Chasity Foster,u297121,u297768
+1680,u303449,born,Lorrie Ewart,u297929,u297089
+1680,u303456,born,Dillan Emerson,u297139,u297491
+1680,u303460,born,Kathlyn Christopherson,u297030,u296999
+1680,u303463,born,London Cornett-Fay,u298494,u297195
+1680,u303464,born,Gwenda Devine,u297185,u297072
+1680,u303467,born,Jenny Robbins-Starr,u297332,u297065
+1680,u303473,born,Jenny Cornett,u297105,u297084
+1680,u297004,died
+1680,u297021,died
+1680,u297031,died
+1680,u302231,died
+1680,u302777,died
+1680,u303001,died
+1680,u303227,died
+1680,u303235,died
+1680,u303237,died
+1681,u303665,born,Drake Cornett,u298494,u297195
+1681,u303666,born,Carmen Ewart,u297929,u297089
+1681,u303667,born,Carmen Cornett,u297105,u297084
+1681,u303675,born,Erin Devine,u297185,u297072
+1681,u303682,born,Leanna Derrickson,---,---
+1681,u303683,born,Orville Kimberly,u297121,u297768
+1681,u303692,born,Darian Falconer,u297142,u299297
+1681,u303695,born,Meriel Mills,u297139,u297491
+1681,u303710,born,Darryl Robbins,u297332,u297065
+1681,u303713,born,Merlyn Christopherson,u297030,u296999
+1681,u303728,born,Tranter Kimberly,u297466,u297043
+1681,u296993,died
+1681,u301373,died
+1681,u302207,died
+1681,u303445,died
+1681,u303463,died
+1682,u303901,born,Braiden Mills,u297139,u297491
+1682,u303903,born,Chasity Ewart,u297929,u297089
+1682,u303904,born,Bud Christopherson,u297030,u296999
+1682,u303906,born,Drake Kimberly,u297121,u297768
+1682,u303918,born,Tamika Cornett,u298494,u297195
+1682,u303922,born,Braiden Devine,u297185,u297072
+1682,u303935,born,Hepsie Falconer,u297142,u299297
+1682,u303942,born,Carmen Cornett,u297105,u297084
+1682,u303949,born,Allyn Robbins,u297332,u297065
+1682,u304072,born,Caelan Langdon,---,---
+1682,u304091,born,Maurine Turner,---,---
+1682,u297015,died
+1682,u301339,died
+1682,u301678,died
+1682,u302480,died
+1682,u303456,died
+1683,u304109,born,Beckham Christopherson,u297030,u296999
+1683,u304112,born,Joselyn Ewart-Garrard,u297929,u297089
+1683,u304121,born,Teagan Falconer,u297142,u299297
+1683,u304125,born,Tranter Paternoster,u297185,u297072
+1683,u304147,born,Joss Mills,u297139,u297491
+1683,u304149,born,Brooklyn Corey,---,---
+1683,u304168,born,London Cornett,u297105,u297084
+1683,u304180,born,Drake Starr,u297121,u297768
+1683,u304183,born,Drake Robbins,u297332,u297065
+1683,u304268,born,Travis Hyde,---,---
+1683,u296996,died
+1683,u297028,died
+1683,u297080,died
+1683,u301150,died
+1683,u302789,died
+1683,u302975,died
+1683,u303009,died
+1683,u303315,died
+1683,u303464,died
+1683,u303467,died
+1683,u303918,died
+1684,u304325,born,Clint Falconer,u297142,u299297
+1684,u304326,born,Darren Christopherson,u297030,u296999
+1684,u304335,born,Darian Cornett,u297105,u297084
+1684,u304341,born,Lynsay Mills,u297139,u297491
+1684,u304358,born,Darian Devine,u297185,u297072
+1684,u304369,born,Ian Ewart,u297929,u297089
+1684,u304454,born,Cullen Seaver,u299306,u300000
+1684,u297039,died
+1684,u302197,died
+1684,u303003,died
+1684,u303256,died
+1684,u303665,died
+1684,u303667,died
+1685,u304530,born,Candyce Falconer,u297142,u299297
+1685,u304532,born,Elisa Mills,u297139,u297491
+1685,u304535,born,Candyce Cornett,u297105,u297084
+1685,u304538,born,Tranter Christopherson,u297030,u296999
+1685,u304541,born,Maurine Ewart,u297929,u297089
+1685,u304545,born,Clifton Ackerman,u297185,u297072
+1685,u304562,born,Gregg Seaver-Corey,u299306,u300000
+1685,u304619,born,Bethel Wright-Wright,---,---
+1685,u296992,died
+1685,u302511,died
+1685,u303232,died
+1685,u303903,died
+1685,u303904,died
+1685,u304091,died
+1685,u304112,died
+1685,u304125,died
+1686,u304722,born,Kolton Falconer,u297142,u299297
+1686,u304730,born,Kayden Devine,u297185,u297072
+1686,u304733,born,Sonia Mills,u297139,u297491
+1686,u304736,born,Braiden Starr,u297105,u297084
+1686,u304742,born,Lynsay Ewart,u297929,u297089
+1686,u304745,born,Silver Seaver,u299306,u300000
+1686,u297005,died
+1686,u301106,died
+1686,u302469,died
+1686,u303027,died
+1686,u303441,died
+1686,u303666,died
+1686,u303682,died
+1686,u303695,died
+1686,u303922,died
+1686,u304109,died
+1686,u304180,died
+1686,u304326,died
+1687,u304920,born,Sienna Falconer-Kimberly,u297142,u299297
+1687,u304923,born,Jenny Seaver,u299306,u300000
+1687,u304928,born,Eliana Cornett,u297105,u297084
+1687,u304933,born,Gregg Mills,u297139,u297491
+1687,u304941,born,Hepsie Devine,u297185,u297072
+1687,u304950,born,Genie Ewart,u297929,u297089
+1687,u304969,born,Orville Garrard,u300876,u297085
+1687,u304999,born,Kassandra Starr,u298301,u297768
+1687,u304454,died
+1687,u304619,died
+1687,u304745,died
+1688,u305181,born,Sonia Bond,---,---
+1688,u305188,born,Elisa Starr,u298301,u297768
+1688,u305194,born,Lacey Ewart,u297929,u297089
+1688,u305198,born,Dannie Seaver,u299306,u300000
+1688,u305200,born,Clint Falconer,u297142,u299297
+1688,u305201,born,Dannie Mills,u297139,u297491
+1688,u305213,born,Marvin Cornett-Mills,u297105,u297084
+1688,u305264,born,Kathlyn Garrard,u300876,u297085
+1688,u305319,born,Cali Devine,u297185,u297072
+1688,u303949,died
+1688,u304538,died
+1688,u304722,died
+1689,u305414,born,Sonia Devine,u297185,u297072
+1689,u305419,born,Silver Kimberly,u298301,u297768
+1689,u305429,born,Tahnee Mills-Ewart,u297139,u297491
+1689,u305435,born,Eliana Seaver,u299306,u300000
+1689,u305439,born,Tranter Falconer,u297142,u299297
+1689,u305463,born,Maurine Cornett,u297105,u297084
+1689,u305487,born,Danita Ewart,u297929,u297089
+1689,u305559,born,Ellington Falconer,u300910,u298109
+1689,u297032,died
+1689,u297037,died
+1689,u297042,died
+1689,u297063,died
+1689,u297071,died
+1689,u303239,died
+1689,u303935,died
+1689,u304369,died
+1689,u304535,died
+1689,u304730,died
+1689,u304733,died
+1689,u304928,died
+1689,u305194,died
+1690,u305651,born,Harold Seaver,u299306,u300000
+1690,u305656,born,Dillan Falconer,u300910,u298109
+1690,u305662,born,Bryanne Kimberly,u298301,u297768
+1690,u305693,born,Cali Ewart,u297929,u297089
+1690,u297051,died
+1690,u302505,died
+1690,u303460,died
+1690,u303683,died
+1690,u303942,died
+1690,u304183,died
+1690,u304920,died
+1690,u304933,died
+1690,u304941,died
+1690,u305213,died
+1690,u305419,died
+1691,u305882,born,Sondra Kimberly,u298301,u297768
+1691,u305905,born,Kassandra Falconer-Robbins,u300910,u298109
+1691,u305919,born,Kathlyn Jekyll,u300876,u297073
+1691,u305924,born,Candyce Seaver,u299306,u300000
+1691,u306049,born,Carran Fay,u302065,u298348
+1692,u306082,born,Joselyn Kimberly,u298301,u297768
+1692,u306114,born,Viona Jekyll,u300876,u297073
+1692,u306128,born,Allyn Seaver,u299306,u300000
+1692,u306141,born,Chloë Falconer-Robbins,u300910,u298109
+1692,u306142,born,Steven Fay,u302065,u298348
+1692,u306254,born,Keira Jameson,---,---
+1692,u297016,died
+1692,u297077,died
+1692,u297082,died
+1692,u304121,died
+1692,u304268,died
+1693,u306320,born,Braiden Falconer,u300910,u298109
+1693,u306323,born,Silver Fay,u302065,u298348
+1693,u306327,born,Teagan Kimberly,u298301,u297768
+1693,u306335,born,Flanagan Seaver,u299306,u300000
+1693,u306344,born,Flanagan Jekyll,u300876,u297073
+1693,u303675,died
+1693,u304923,died
+1693,u305319,died
+1693,u305463,died
+1693,u305651,died
+1693,u305662,died
+1693,u305882,died
+1693,u306141,died
+1694,u306552,born,Tahnee Gill,u300910,u298109
+1694,u306561,born,Meriel Jekyll,u300876,u297073
+1694,u306569,born,Eliana Kimberly,u298301,u297768
+1694,u306571,born,Erin Seaver,u299306,u300000
+1694,u306609,born,Cletus Corey,---,---
+1694,u306624,born,Lynsay Fay,u302065,u298348
+1694,u296995,died
+1694,u297014,died
+1694,u304530,died
+1694,u305198,died
+1694,u306049,died
+1694,u306142,died
+1695,u306790,born,Carrol Kimberly,u298301,u297768
+1695,u306792,born,Drake Seaver,u299306,u300000
+1695,u306795,born,Brooklyn Jekyll,u300876,u297073
+1695,u306839,born,Maurine Falconer,u300910,u298109
+1695,u306883,born,Margo Ewart-Garrard,u297950,u303086
+1695,u297001,died
+1695,u297007,died
+1695,u297013,died
+1695,u297026,died
+1695,u297034,died
+1695,u304335,died
+1695,u304950,died
+1695,u305693,died
+1695,u305905,died
+1695,u306128,died
+1695,u306335,died
+1695,u306344,died
+1696,u307005,born,Retha Fay,u302065,u298348
+1696,u307013,born,Jamison Jekyll,u300876,u297073
+1696,u307019,born,Margo Falconer,u300910,u298109
+1696,u307024,born,Carran Mills,u298494,u300877
+1696,u307038,born,Hepsie Kimberly,u298301,u297768
+1696,u307210,born,Meade Kimberly,---,---
+1696,u297003,died
+1696,u304999,died
+1696,u306114,died
+1697,u307237,born,Erin Jekyll,u300876,u297073
+1697,u307248,born,Marvin Mills,u298494,u300877
+1697,u307261,born,Sonia Falconer,u300910,u298109
+1697,u307271,born,Shayne Kimberly,u298301,u297768
+1697,u307273,born,Sondra Fay,u302065,u298348
+1697,u307337,born,Shannon Ewart,u303473,u297089
+1697,u307423,born,Tahnee Garrard,u302232,u297085
+1697,u297009,died
+1697,u297018,died
+1697,u297045,died
+1697,u297055,died
+1697,u301945,died
+1697,u305201,died
+1697,u305435,died
+1697,u306327,died
+1697,u306569,died
+1697,u306839,died
+1697,u307005,died
+1697,u307024,died
+1698,u307455,born,Meriel Falconer,u300910,u298109
+1698,u307460,born,Dillan Ewart,u303473,u297089
+1698,u307473,born,Elisa Jekyll,u300876,u297073
+1698,u307481,born,Drake Garrard,u302232,u297085
+1698,u307493,born,Darryl Fay,u302065,u298348
+1698,u307516,born,Judd Mills,u298494,u300877
+1698,u307622,born,Eldon Seaver,u302999,u300000
+1698,u303901,died
+1698,u304736,died
+1698,u305429,died
+1698,u305919,died
+1698,u306082,died
+1698,u306609,died
+1698,u306795,died
+1698,u307237,died
+1698,u307273,died
+1699,u307654,born,Keira Falconer,u300910,u298109
+1699,u307656,born,Louis Ewart,u303473,u297089
+1699,u307657,born,Stacie Seaver,u302999,u300000
+1699,u307660,born,Lacey Fay,u302065,u298348
+1699,u307674,born,Roscoe Garrard,u302232,u297085
+1699,u307686,born,Darian Langdon,u303449,u304072
+1699,u307734,born,Meriel Devine,u298882,u301391
+1699,u307748,born,Gypsy Jekyll,u300876,u297073
+1699,u297056,died
+1699,u297065,died
+1699,u297075,died
+1699,u304341,died
+1699,u307038,died
+1699,u307423,died
+1699,u307493,died
+1700,u307898,born,Tamika Langdon,u303449,u304072
+1700,u307901,born,Desirae Devine,u298882,u301391
+1700,u307902,born,Tisha Seaver,u302999,u300000
+1700,u307903,born,Odell Jekyll,u300876,u297073
+1700,u307905,born,Teagan Ewart,u303473,u297089
+1700,u307910,born,Genie Garrard,u302232,u297085
+1700,u307937,born,Jamison Fay,u300910,u300896
+1700,u307938,born,Leanna Fay,u302065,u298348
+1700,u296989,died
+1700,u296994,died
+1700,u305924,died
+1700,u306254,died
+1700,u307460,died
+1700,u307622,died
+1700,u307674,died
+1701,u308170,born,Joe Jekyll,u300876,u297073
+1701,u308171,born,Allyn Ewart,u303449,u304072
+1701,u308172,born,Cullen Dean,u300910,u300896
+1701,u308178,born,Sullivan Seaver,u302999,u300000
+1701,u308187,born,Dannie Fay,u302065,u298348
+1701,u308222,born,Joss Ewart,u303473,u297089
+1701,u308261,born,Chasity Robbins,u304358,u303710
+1701,u308370,born,Tamika Christopherson,u301633,u299750
+1701,u297000,died
+1701,u297043,died
+1701,u304969,died
+1701,u307271,died
+1701,u307481,died
+1701,u307748,died
+1702,u308470,born,Kathlyn Seaver,u302999,u300000
+1702,u308477,born,Tranter Robbins,u304358,u303710
+1702,u308485,born,Ariel Fay,u300910,u300896
+1702,u308487,born,Steven Fay,u302065,u298348
+1702,u308502,born,Margo Langdon,u303449,u304072
+1702,u308504,born,Meriel Jekyll,u300876,u297073
+1702,u308537,born,Kolton Ewart,u303473,u297089
+1702,u308555,born,Sonia Christopherson,u301633,u299750
+1702,u297054,died
+1702,u307210,died
+1702,u307337,died
+1702,u307660,died
+1702,u308172,died
+1702,u308187,died
+1703,u308755,born,Merit Fay,u302065,u298348
+1703,u308756,born,Carrol Christopherson,u301633,u299750
+1703,u308758,born,Harold Jekyll,u300876,u297073
+1703,u308774,born,Dillan Emerson,u303473,u297089
+1703,u308777,born,Flanagan Noel,u304358,u303710
+1703,u308784,born,Louis Seaver,u302999,u300000
+1703,u308807,born,Joe Fay,u300910,u300896
+1703,u308868,born,Chloë Britton,u303449,u304072
+1703,u296997,died
+1703,u297049,died
+1703,u297059,died
+1703,u304358,died
+1703,u307473,died
+1703,u307686,died
+1703,u308170,died
+1704,u308957,born,Margo Seaver,u302999,u300000
+1704,u308964,born,Malone Fay,u300910,u300896
+1704,u308968,born,Lorrie Fay,u302065,u298348
+1704,u308974,born,Lacey Christopherson,u301633,u299750
+1704,u308979,born,Sienna Langdon,u303449,u304072
+1704,u308998,born,Kayden Jekyll,u300876,u297073
+1704,u309001,born,Bethel Ewart,u303473,u297089
+1704,u296999,died
+1704,u297012,died
+1704,u297060,died
+1704,u297079,died
+1704,u307734,died
+1704,u307937,died
+1704,u308261,died
+1704,u308774,died
+1705,u309164,born,Lacey Langdon,u303449,u304072
+1705,u309177,born,Tranter Seaver,u302999,u300000
+1705,u309178,born,Lynsay Christopherson,u301633,u299750
+1705,u309179,born,Forest Fay,u302065,u298348
+1705,u309182,born,Drake Ewart,u303473,u297089
+1705,u309189,born,Jenny Jekyll,u300876,u297073
+1705,u309195,born,Tamika Fay,u300910,u300896
+1705,u309287,born,Silver Devine,u299927,u303052
+1705,u297023,died
+1705,u297047,died
+1705,u297048,died
+1705,u297053,died
+1705,u306320,died
+1705,u307903,died
+1705,u307905,died
+1705,u307938,died
+1705,u308178,died
+1705,u308470,died
+1705,u308964,died
+1705,u308979,died
+1706,u309356,born,Tisha Jekyll,u300876,u297073
+1706,u309358,born,Eliana Fay,u300910,u300896
+1706,u309361,born,Trey Christopherson,u301633,u299750
+1706,u309365,born,Carrol Seaver,u302999,u300000
+1706,u309367,born,Sullivan Fay,u302065,u298348
+1706,u309376,born,Kolton Langdon,u303449,u304072
+1706,u309377,born,Louis Woodrow,u303473,u297089
+1706,u309396,born,Cali Fox,---,---
+1706,u308502,died
+1706,u308777,died
+1706,u308868,died
+1707,u309534,born,Gypsy Seaver,u302999,u300000
+1707,u309538,born,Chasity Ewart,u303473,u297089
+1707,u309539,born,Ricky Langdon,u303449,u304072
+1707,u309546,born,Darian Jekyll,u300876,u297073
+1707,u309547,born,Dillan Christopherson,u301633,u299750
+1707,u309549,born,Joselyn Kimberly,u302065,u298348
+1707,u309586,born,Joe Fay,u300910,u300896
+1707,u309598,born,Harold Falconer,u302232,u305656
+1707,u297084,died
+1707,u307901,died
+1707,u308485,died
+1707,u308487,died
+1707,u308756,died
+1707,u309189,died
+1707,u309361,died
+1708,u309701,born,Candyce Langdon,u303449,u304072
+1708,u309703,born,Shayne Falconer,u302232,u305656
+1708,u309705,born,Lee Christopherson,u301633,u299750
+1708,u309712,born,Clint Fay,u302065,u298348
+1708,u309716,born,Odell Jekyll,u300876,u297073
+1708,u309718,born,Ricky Ewart,u303473,u297089
+1708,u309734,born,Sienna Fay,u300910,u300896
+1708,u309741,born,Viona Seaver,u302999,u300000
+1708,u297038,died
+1708,u297041,died
+1708,u306790,died
+1708,u307261,died
+1708,u307898,died
+1708,u309356,died
+1709,u309885,born,Cali Falconer,u302232,u305656
+1709,u309888,born,Diggory Jekyll,u300876,u297073
+1709,u309889,born,Tamika Christopherson,u301633,u299750
+1709,u309890,born,Orville Seaver-Corey,u305188,u304562
+1709,u309895,born,Flanagan Ewart,u303473,u297089
+1709,u309911,born,Teagan Seaver,u302999,u300000
+1709,u309916,born,Genie Langdon,u303449,u304072
+1709,u309925,born,Shannon Howland,u302065,u298348
+1709,u309935,born,Lorrie Fay,u300910,u300896
+1709,u310027,born,Danita Ackerman,u303230,u304545
+1709,u310038,born,Tahnee Gill-Gill,---,---
+1709,u310075,born,Eliana Robbins,u301379,u301919
+1709,u307455,died
+1709,u308222,died
+1709,u308555,died
+1709,u308755,died
+1709,u308758,died
+1709,u308974,died
+1709,u309177,died
+1709,u309178,died
+1709,u309534,died
+1709,u309538,died
+1709,u309539,died
+1709,u309547,died
+1709,u309701,died
+1710,u310086,born,Judd Seaver,u302999,u300000
+1710,u310088,born,Danita Ackerman,u303230,u304545
+1710,u310094,born,Drake Kimberly,u302065,u298348
+1710,u310095,born,Darren Falconer,u302232,u305656
+1710,u310098,born,Ibbie Ewart,u303473,u297089
+1710,u310101,born,Meriel Christopherson,u301633,u299750
+1710,u310115,born,Erin Seaver-Corey,u305188,u304562
+1710,u310117,born,Genie Langdon,u303449,u304072
+1710,u310130,born,Cletus Falconer,u305414,u305439
+1710,u310168,born,Kolton Robbins,u301379,u301919
+1710,u310246,born,Travis Robbins,u304541,u303710
+1710,u297062,died
+1710,u297078,died
+1710,u307902,died
+1710,u308957,died
+1710,u308998,died
+1710,u309195,died
+1710,u309598,died
+1710,u309935,died
+1711,u310320,born,Tahnee Ackerman,u303230,u304545
+1711,u310323,born,Merlyn Seaver-Corey,u305188,u304562
+1711,u310326,born,Debby Falconer,u305414,u305439
+1711,u310327,born,Darren Langdon,u303449,u304072
+1711,u310331,born,Drake Robbins,u304541,u303710
+1711,u310341,born,Kathlyn Ewart,u303473,u297089
+1711,u310342,born,Clint Fay,u302065,u298348
+1711,u310344,born,Cullen Robbins,u301379,u301919
+1711,u310366,born,Margo Seaver,u302999,u300000
+1711,u310456,born,Ricky Fay,u302232,u305656
+1711,u310485,born,Retha Devine,u306571,u302192
+1711,u297072,died
+1711,u308968,died
+1711,u309586,died
+1711,u309734,died
+1711,u309889,died
+1711,u309890,died
+1711,u309916,died
+1711,u310027,died
+1712,u310554,born,Meade Seaver-Corey,u305188,u304562
+1712,u310558,born,Stacie Fay,u302065,u298348
+1712,u310563,born,Ricky Ewart,u303473,u297089
+1712,u310564,born,Retha Robbins,u304541,u303710
+1712,u310568,born,Juniper Langdon,u303449,u304072
+1712,u310569,born,Erin Seaver,u302999,u300000
+1712,u310574,born,Tamika Seaver,u303230,u306792
+1712,u310593,born,Florrie Falconer,u305414,u305439
+1712,u310602,born,Kassandra Devine,u306571,u302192
+1712,u310636,born,Merit Falconer,u302232,u305656
+1712,u297035,died
+1712,u308784,died
+1712,u309179,died
+1712,u309396,died
+1712,u309885,died
+1712,u309895,died
+1712,u310101,died
+1712,u310246,died
+1713,u310793,born,Diggory Ewart,u304541,u303710
+1713,u310794,born,Grady Falconer,u302232,u305656
+1713,u310795,born,Maurine Devine,u306571,u302192
+1713,u310801,born,Sondra Seaver,u303230,u306792
+1713,u310803,born,Caelan Langdon,u303449,u304072
+1713,u310805,born,Trey Seaver-Corey,u305188,u304562
+1713,u310806,born,Elisa Fay,u302065,u298348
+1713,u310809,born,Hepsie Simen,u302999,u300000
+1713,u310810,born,Jamison Falconer,u305414,u305439
+1713,u310872,born,Merit Ewart,u303473,u297089
+1713,u310881,born,Harold Kimberly,u305181,u303728
+1713,u310985,born,Maurine Fay,u304532,u306323
+1713,u297050,died
+1713,u309287,died
+1713,u309377,died
+1713,u309718,died
+1713,u309911,died
+1713,u310168,died
+1713,u310320,died
+1713,u310331,died
+1713,u310341,died
+1713,u310456,died
+1713,u310554,died
+1714,u311026,born,Travis Fay,u304532,u306323
+1714,u311030,born,Orville Robbins,u304541,u303710
+1714,u311036,born,Joss Falconer,u302232,u305656
+1714,u311037,born,Meriel Langdon,u303449,u304072
+1714,u311042,born,Danita Ewart,u303473,u297089
+1714,u311053,born,Chasity Seaver-Corey,u305188,u304562
+1714,u311054,born,Lorrie Falconer,u305414,u305439
+1714,u311069,born,Sonia Falconer,u304147,u304325
+1714,u311070,born,Lacey Seaver,u302999,u300000
+1714,u311081,born,Desirae Mathews,u305181,u303728
+1714,u311101,born,Shannon Devine,u306571,u302192
+1714,u306792,died
+1714,u309716,died
+1714,u310086,died
+1714,u310088,died
+1714,u310098,died
+1714,u310326,died
+1714,u310327,died
+1714,u310636,died
+1714,u310803,died
+1715,u311254,born,Orville Fay,u304532,u306323
+1715,u311255,born,Joselyn Falconer,u305414,u305439
+1715,u311256,born,Eliot Carlyle,u304147,u304325
+1715,u311262,born,Clint Seaver-Corey,u305188,u304562
+1715,u311265,born,Debby Kimberly,u305181,u303728
+1715,u311267,born,Tahnee Langdon,u303449,u304072
+1715,u311269,born,Steven Robbins,u304541,u303710
+1715,u311278,born,Meriel Devine,u306571,u302192
+1715,u311393,born,Lacey Seaver,u302999,u300000
+1715,u305559,died
+1715,u309712,died
+1715,u310563,died
+1715,u310569,died
+1715,u310602,died
+1715,u311026,died
+1715,u311037,died
+1716,u311516,born,Viona Seaver-Corey,u305188,u304562
+1716,u311518,born,Gordon Robbins,u304541,u303710
+1716,u311520,born,Cali Langdon,u303449,u304072
+1716,u311530,born,Viona Falconer,u305414,u305439
+1716,u311538,born,Carran Fay,u304532,u306323
+1716,u311542,born,Diggory Kimberly,u305181,u303728
+1716,u311549,born,Gwenda Monday,---,---
+1716,u311559,born,Ian Devine,u306571,u302192
+1716,u311564,born,Kolton Seaver,u302999,u300000
+1716,u311582,born,Sullivan Falconer,u304147,u304325
+1716,u296991,died
+1716,u297030,died
+1716,u309365,died
+1716,u309925,died
+1716,u310558,died
+1716,u310568,died
+1716,u310793,died
+1716,u310881,died
+1716,u311042,died
+1716,u311053,died
+1716,u311101,died
+1717,u311737,born,Tamika Newell,u305188,u304562
+1717,u311738,born,Carran Seaver,u302999,u300000
+1717,u311741,born,Trey Kimberly,u305181,u303728
+1717,u311742,born,Bud Devine,u306571,u302192
+1717,u311756,born,Teagan Falconer,u304147,u304325
+1717,u311781,born,Ibbie Robbins,u304541,u303710
+1717,u311782,born,Cletus Fay,u304532,u306323
+1717,u311865,born,Tisha Killam,u305414,u305439
+1717,u311883,born,Steven Langdon,u303449,u304072
+1717,u297081,died
+1717,u310075,died
+1717,u310805,died
+1717,u310872,died
+1717,u310985,died
+1717,u311036,died
+1717,u311069,died
+1717,u311254,died
+1717,u311269,died
+1717,u311538,died
+1717,u311559,died
+1717,u311582,died
+1718,u311977,born,Jamison Falconer,u305414,u305439
+1718,u311985,born,Judd Seaver-Corey,u305188,u304562
+1718,u311987,born,Ariel Robbins,u304541,u303710
+1718,u311988,born,Harold Falconer,u304147,u304325
+1718,u311992,born,Darryl Devine,u305181,u303728
+1718,u311998,born,Brannon Langdon,u303449,u304072
+1718,u312003,born,Elisa Devine,u306571,u302192
+1718,u312005,born,Candyce Fay,u304532,u306323
+1718,u309367,died
+1718,u310038,died
+1718,u310115,died
+1718,u310342,died
+1718,u310593,died
+1718,u310794,died
+1718,u311054,died
+1718,u311530,died
+1719,u312174,born,Cullen Falconer,u305414,u305439
+1719,u312175,born,Gypsy Sexton,u303449,u304072
+1719,u312186,born,Harold Kimberly-Bond,u305181,u303728
+1719,u312189,born,Caelan Devine,u306571,u302192
+1719,u312199,born,Danita Robbins,u304541,u303710
+1719,u312200,born,Lee Fay,u304532,u306323
+1719,u312349,born,Gerrard Dean,u304147,u299588
+1719,u297058,died
+1719,u309549,died
+1719,u310344,died
+1719,u311265,died
+1719,u311516,died
+1719,u311520,died
+1719,u311998,died
+1720,u312396,born,Ian Robbins,u304541,u303710
+1720,u312400,born,Grady Fay,u304532,u306323
+1720,u312409,born,Desirae Kimberly,u305181,u303728
+1720,u312418,born,Tamika Devine,u306571,u302192
+1720,u312423,born,Marlon Fay,u305264,u308807
+1720,u312432,born,Joss Dean,u304147,u299588
+1720,u312441,born,Shayne Falconer,u305414,u305439
+1720,u312488,born,Meriel Reynolds-Reynolds,---,---
+1720,u297066,died
+1720,u297067,died
+1720,u297085,died
+1720,u310795,died
+1720,u310810,died
+1720,u311070,died
+1720,u311255,died
+1720,u311393,died
+1720,u311549,died
+1721,u312654,born,Desirae Fay,u305264,u308807
+1721,u312656,born,Dillan Fay,u304532,u306323
+1721,u312666,born,Elisa Dean,u304147,u299588
+1721,u312678,born,Ibbie Kimberly,u305181,u303728
+1721,u312679,born,Merlyn Falconer,u305414,u305439
+1721,u312684,born,Merlyn Adams,u306571,u302192
+1721,u312714,born,Ibbie Robbins,u304541,u303710
+1721,u297044,died
+1721,u297057,died
+1721,u297073,died
+1721,u310574,died
+1721,u311030,died
+1721,u311081,died
+1721,u311278,died
+1721,u312186,died
+1721,u312432,died
+1722,u312848,born,Carrol Fay,u305264,u308807
+1722,u312853,born,Desirae Devine,u306571,u302192
+1722,u312855,born,Candyce Dean,u304147,u299588
+1722,u312857,born,Braiden Falconer,u305414,u305439
+1722,u312868,born,Ian Kimberly,u305181,u303728
+1722,u312885,born,Orville Fay-Mills,u304532,u306323
+1722,u309741,died
+1722,u310485,died
+1722,u310801,died
+1722,u311518,died
+1722,u311782,died
+1722,u311992,died
+1722,u312400,died
+1722,u312418,died
+1722,u312488,died
+1722,u312654,died
+1722,u312666,died
+1722,u312679,died
+1723,u313056,born,Bethel Devine,u306571,u302192
+1723,u313057,born,Carrol Ackerman,u309358,u304545
+1723,u313061,born,Odell Kimberly,u305181,u303728
+1723,u313062,born,Chloë Falconer,u305414,u305439
+1723,u313109,born,Brannon Fay,u304532,u306323
+1723,u313167,born,Madge Ewart,u306552,u309182
+1723,u313169,born,Elisa Fay,u305264,u308807
+1723,u310130,died
+1723,u311985,died
+1723,u312189,died
+1723,u312199,died
+1723,u312200,died
+1723,u312441,died
+1723,u312714,died
+1723,u312855,died
+1723,u312868,died
+1724,u313268,born,Malone Kimberly,u305181,u303728
+1724,u313277,born,Lacey Ackerman,u309358,u304545
+1724,u313286,born,Carmen Ewart,u306552,u309182
+1724,u313287,born,Tahnee Gill,u305414,u305439
+1724,u313297,born,Caelan Devine,u306571,u302192
+1724,u313311,born,Desirae Garrard,u305264,u308807
+1724,u313334,born,Ian Fay,u304532,u306323
+1724,u313336,born,Brooklyn Ewart,u307657,u307656
+1724,u311564,died
+1724,u311742,died
+1724,u311987,died
+1724,u312409,died
+1724,u312678,died
+1724,u312885,died
+1725,u313514,born,Lee Fay,u305264,u308807
+1725,u313517,born,Malone Ackerman,u309358,u304545
+1725,u313519,born,Cullen Kimberly,u305181,u303728
+1725,u313526,born,Jenny Ewart,u306552,u309182
+1725,u313539,born,Carran Falconer,u305414,u305439
+1725,u313540,born,Malone Mills,u306883,u307516
+1725,u313562,born,Teagan Seaver,u306571,u302192
+1725,u313569,born,Forest Ewart,u307657,u307656
+1725,u313637,born,Flanagan Falconer,u308370,u309703
+1725,u313656,born,Brannon Cornett-Ewart,u304742,u304168
+1725,u297491,died
+1725,u310806,died
+1725,u311883,died
+1725,u311977,died
+1725,u311988,died
+1725,u312396,died
+1725,u312423,died
+1725,u313287,died
+1725,u313336,died
+1726,u313755,born,Gerrard Falconer,u305414,u305439
+1726,u313756,born,Eliana Ewart,u307657,u307656
+1726,u313761,born,Gypsy Kimberly,u305181,u303728
+1726,u313766,born,Desirae Christopherson,u308370,u309703
+1726,u313767,born,Sonia Mills,u306883,u307516
+1726,u313779,born,Carmen Fay,u305264,u308807
+1726,u313801,born,Kathlyn Ewart,u306552,u309182
+1726,u313817,born,Tahnee Ackerman,u309358,u304545
+1726,u313840,born,Flanagan Devine,u306571,u302192
+1726,u313933,born,Cullen Robbins,u305487,u303710
+1726,u313109,died
+1726,u313297,died
+1726,u313526,died
+1727,u314014,born,Chloë Ackerman,u309358,u304545
+1727,u314015,born,Carran Falconer,u308370,u309703
+1727,u314016,born,Lacey Falconer,u305414,u305439
+1727,u314018,born,Odell Mills,u306883,u307516
+1727,u314025,born,Lacey Kimberly,u305181,u303728
+1727,u314027,born,Brannon Fay,u305264,u308807
+1727,u314033,born,Trey Falconer,u307910,u303713
+1727,u314043,born,Carrol Ewart,u307657,u307656
+1727,u314045,born,Joe Mills,u306571,u302192
+1727,u314062,born,Sullivan Robbins,u305487,u303710
+1727,u314072,born,Meriel Reynolds,---,---
+1727,u314077,born,Brannon Landon,u306552,u309182
+1727,u297068,died
+1727,u309182,died
+1727,u312005,died
+1727,u312684,died
+1727,u313562,died
+1727,u313656,died
+1727,u313761,died
+1727,u313840,died
+1728,u314255,born,Gerrard Falconer,u308370,u309703
+1728,u314257,born,Retha Devine,u305414,u305439
+1728,u314279,born,Sondra Ewart,u307657,u307656
+1728,u314281,born,Brooklyn Corey,u306571,u302192
+1728,u314289,born,Joe Ackerman,u309358,u304545
+1728,u314296,born,Margo Mills,u306883,u307516
+1728,u314341,born,Flanagan Noel,u307910,u303713
+1728,u314394,born,Ian Robbins,u305487,u303710
+1728,u314442,born,Cali Ewart,u306552,u308537
+1728,u311737,died
+1728,u312857,died
+1728,u313286,died
+1728,u313540,died
+1728,u313637,died
+1728,u314033,died
+1729,u314498,born,Joe Mills,u306883,u307516
+1729,u314504,born,Carrol Devine,u306571,u302192
+1729,u314507,born,Cali Fox,u307657,u307656
+1729,u314513,born,Alexandrina Christopherson,u307910,u303713
+1729,u314518,born,Shannon Ackerman,u309358,u304545
+1729,u314542,born,Kolton Ewart,u306552,u308537
+1729,u314544,born,Chasity Christopherson,u308370,u309703
+1729,u314560,born,Gypsy Sexton,---,---
+1729,u297017,died
+1729,u297089,died
+1729,u297185,died
+1729,u297332,died
+1729,u312003,died
+1729,u312349,died
+1729,u313334,died
+1729,u313519,died
+1729,u313756,died
+1729,u313779,died
+1729,u314015,died
+1729,u314016,died
+1730,u314745,born,Lorrie Mills,u306883,u307516
+1730,u314754,born,Cletus Ackerman,u309358,u304545
+1730,u314758,born,Sondra Southgate,u308370,u309703
+1730,u314775,born,Debby Ewart,u306552,u308537
+1730,u314785,born,Carrol Christopherson,u307910,u303713
+1730,u314793,born,Orville Devine,u306571,u302192
+1730,u314849,born,Kassandra Ewart,u307657,u307656
+1730,u311781,died
+1730,u312853,died
+1730,u313755,died
+1730,u313767,died
+1730,u313801,died
+1730,u314027,died
+1730,u314043,died
+1730,u314255,died
+1730,u314442,died
+1730,u314513,died
+1731,u315002,born,Darryl Christopherson,u307910,u303713
+1731,u315003,born,Chasity Ewart,u307657,u307656
+1731,u315007,born,Ricky Devine,u306571,u302192
+1731,u315009,born,Sienna Falconer,u308370,u309703
+1731,u315022,born,Allyn Ackerman,u309358,u304545
+1731,u315053,born,Chasity Mills,u306883,u307516
+1731,u315068,born,Lynsay Falconer,u306561,u310095
+1731,u297312,died
+1731,u312175,died
+1731,u313268,died
+1731,u314045,died
+1731,u314281,died
+1731,u314296,died
+1731,u314394,died
+1731,u314518,died
+1731,u314544,died
+1731,u314785,died
+1732,u315245,born,Carrol Seaver,u307657,u307656
+1732,u315250,born,Dillan Seaver-Corey,u311267,u304562
+1732,u315253,born,Trey Devine-Seaver,u306571,u302192
+1732,u315254,born,Chloë Christopherson,u307910,u303713
+1732,u315260,born,Maurine Falconer,u306561,u310095
+1732,u315287,born,Gwenda Falconer,u308370,u309703
+1732,u315360,born,London Ackerman,u309358,u304545
+1732,u315383,born,Maurine Mills,u306883,u307516
+1732,u297466,died
+1732,u298301,died
+1732,u313061,died
+1732,u313167,died
+1732,u313517,died
+1732,u314072,died
+1732,u314077,died
+1732,u314507,died
+1732,u314775,died
+1733,u315518,born,Florrie Ackerman,u309358,u304545
+1733,u315524,born,Viona Mills,u306883,u307516
+1733,u315527,born,Joss Falconer,u306561,u310095
+1733,u315531,born,Keira Christopherson,u307910,u303713
+1733,u315532,born,Allyn Devine,u306571,u302192
+1733,u315546,born,Kathlyn Langdon,u311267,u304562
+1733,u315551,born,Meriel Ewart,u307657,u307656
+1733,u315577,born,Dillan Falconer,u308370,u309703
+1733,u314745,died
+1734,u315776,born,Tawnee Ewart,u307657,u307656
+1734,u315777,born,Madge Mills,u306883,u307516
+1734,u315787,born,Carrol Seaver-Corey,u311267,u304562
+1734,u315799,born,Jamison Falconer,u308370,u309703
+1734,u315807,born,Tranter Christopherson,u307910,u303713
+1734,u315826,born,Candyce Ackerman,u309358,u304545
+1734,u315957,born,Juniper Law,---,---
+1734,u297103,died
+1734,u297450,died
+1734,u313539,died
+1734,u313569,died
+1734,u313817,died
+1734,u314560,died
+1734,u315250,died
+1734,u315254,died
+1734,u315260,died
+1735,u316049,born,London Christopherson,u307910,u303713
+1735,u316057,born,Chasity Ewart,u307657,u307656
+1735,u316076,born,Cullen Ackerman,u309358,u304545
+1735,u316088,born,Chloë Seaver-Corey,u311267,u304562
+1735,u297105,died
+1735,u297928,died
+1735,u298494,died
+1735,u314504,died
+1735,u315009,died
+1735,u315253,died
+1735,u315518,died
+1735,u315531,died
+1735,u315807,died
+1735,u315957,died
+1736,u316307,born,Shayne Seaver-Corey,u311267,u304562
+1736,u316310,born,Carmen Ewart,u307657,u307656
+1736,u316313,born,Gwenda Ackerman,u309358,u304545
+1736,u316457,born,Tisha Christopherson,u307910,u303713
+1736,u299588,died
+1736,u313933,died
+1736,u315532,died
+1736,u315546,died
+1736,u315776,died
+1737,u316545,born,Jamison Seaver-Corey,u311267,u304562
+1737,u316569,born,Clifton Ackerman,u309358,u304545
+1737,u316616,born,Sullivan Christopherson,u307910,u303713
+1737,u316631,born,Silver Seaver,u307657,u307656
+1737,u315002,died
+1737,u315022,died
+1737,u315053,died
+1737,u315068,died
+1737,u315524,died
+1737,u315527,died
+1737,u315777,died
+1737,u316088,died
+1738,u316812,born,Eliot Ackerman,u309358,u304545
+1738,u316820,born,Tawnee Ewart,u307657,u307656
+1738,u316829,born,Cletus Falconer,u309164,u309703
+1738,u316838,born,Chloë Christopherson,u307910,u303713
+1738,u297121,died
+1738,u297929,died
+1738,u298882,died
+1738,u314257,died
+1738,u314279,died
+1738,u314289,died
+1738,u314754,died
+1738,u315003,died
+1738,u315287,died
+1739,u317079,born,Michael Falconer,u309164,u309703
+1739,u317083,born,Ellington Christopherson,u307910,u303713
+1739,u317086,born,Madge Ackerman,u309358,u304545
+1739,u297196,died
+1739,u298120,died
+1739,u316307,died
+1739,u316545,died
+1740,u317362,born,Hepsie Falconer,u309164,u309703
+1740,u317368,born,Brannon Fay,u313062,u312848
+1740,u317369,born,Judd Falconer,u313056,u304325
+1740,u317392,born,Orville Cooke,u309358,u304545
+1740,u317487,born,Caelan Corey,u310366,u304149
+1740,u297139,died
+1740,u297142,died
+1740,u297950,died
+1740,u300876,died
+1740,u316076,died
+1740,u317083,died
+1741,u317636,born,Juniper Falconer,u309164,u309703
+1741,u317647,born,Gerrard Falconer,u313056,u304325
+1741,u317651,born,Carrol Ackerman,u309358,u304545
+1741,u317654,born,Hepsie Fay,u313062,u312848
+1741,u317660,born,Jenny Corey,u310366,u304149
+1741,u316631,died
+1741,u317368,died
+1741,u317369,died
+1741,u317392,died
+1742,u317891,born,Gerrard Falconer,u313062,u312848
+1742,u317901,born,Ian Ackerman,u309358,u304545
+1742,u317917,born,Marvin Corey,u310366,u304149
+1742,u317920,born,Viona Carlyle,u313169,u311256
+1742,u317926,born,Sondra Falconer,u313056,u304325
+1742,u317934,born,Cali Falconer,u309164,u309703
+1742,u317992,born,Merlyn Robbins,u313311,u308477
+1742,u318077,born,Eldon Langdon,u309001,u304072
+1742,u297195,died
+1742,u297768,died
+1742,u304072,died
+1742,u315360,died
+1742,u315799,died
+1742,u316049,died
+1742,u317660,died
+1743,u318189,born,Darren Fay,u313062,u312848
+1743,u318199,born,Malone Falconer,u313056,u304325
+1743,u318204,born,Dillan Kimberly,u311865,u303906
+1743,u318207,born,Marvin Falconer,u309164,u309703
+1743,u318208,born,Alexandrina Ackerman,u309358,u304545
+1743,u318222,born,Ibbie Corey,u310366,u304149
+1743,u318246,born,Roscoe Allen,u313766,u308537
+1743,u298348,died
+1743,u314849,died
+1743,u315826,died
+1743,u317362,died
+1743,u317487,died
+1743,u317636,died
+1743,u317654,died
+1744,u318490,born,Sienna Kimberly,u311865,u303906
+1744,u318495,born,Dannie Falconer-Devine,u313056,u304325
+1744,u318505,born,Travis Hyde,u313062,u312848
+1744,u318511,born,Elisa Corey,u310366,u304149
+1744,u318513,born,Sondra Ackerman,u309358,u304545
+1744,u318516,born,Tawnee Ewart,u313766,u308537
+1744,u318597,born,Eldon Falconer,u309164,u309703
+1744,u304541,died
+1744,u317901,died
+1744,u317926,died
+1744,u318199,died
+1745,u318744,born,Cullen Corey,u310366,u304149
+1745,u318761,born,Carran Ewart,u313766,u308537
+1745,u318766,born,Gerrard Fay,u313062,u312848
+1745,u318776,born,Chasity Kimberly,u311865,u303906
+1745,u318798,born,Joss Ackerman,u309358,u304545
+1745,u298109,died
+1745,u299096,died
+1745,u300134,died
+1745,u317917,died
+1745,u317934,died
+1745,u318189,died
+1746,u319012,born,Tahnee Fay,u313062,u312848
+1746,u319014,born,Drake Ewart,u313766,u308537
+1746,u319021,born,Candyce Kimberly,u311865,u303906
+1746,u319032,born,Genie Seaver-Corey,u313169,u310323
+1746,u319036,born,Maurine Corey,u310366,u304149
+1746,u319057,born,Diggory Ewart,u310809,u314542
+1746,u319119,born,Judd Robbins,u313311,u308477
+1746,u319126,born,Forest Greene,u310564,u313057
+1746,u315245,died
+1746,u318204,died
+1746,u318495,died
+1746,u318513,died
+1746,u318744,died
+1746,u318776,died
+1747,u319276,born,Marvin Corey,u310366,u304149
+1747,u319287,born,Candyce Ewart,u310809,u314542
+1747,u319303,born,Tahnee Seaver-Corey,u313169,u310323
+1747,u319320,born,Elisa Ackerman,u310564,u313057
+1747,u319323,born,Alexandrina Robbins,u313311,u308477
+1747,u319345,born,Carmen Ewart,u313766,u308537
+1747,u315551,died
+1747,u316457,died
+1747,u317647,died
+1747,u317891,died
+1747,u318246,died
+1747,u318516,died
+1747,u319119,died
+1748,u319546,born,Gypsy Robbins,u313311,u308477
+1748,u319550,born,Retha Ewart,u313766,u308537
+1748,u319551,born,Harold Ackerman,u310564,u313057
+1748,u319552,born,Meade Ewart,u310809,u314542
+1748,u319612,born,Viona Seaver-Corey,u313169,u310323
+1748,u300000,died
+1748,u304147,died
+1748,u319014,died
+1748,u319287,died
+1748,u319345,died
+1749,u319824,born,Brooklyn Robbins,u313311,u308477
+1749,u319833,born,Forest Ackerman,u310564,u313057
+1749,u319838,born,Forest Ewart,u310809,u314542
+1749,u319858,born,Erin Falconer,u315383,u305200
+1749,u319866,born,Orville Ewart,u313766,u308537
+1749,u319872,born,Candyce Fay,u313169,u310323
+1749,u316820,died
+1749,u318077,died
+1749,u318597,died
+1749,u319276,died
+1749,u319546,died
+1750,u320075,born,Meade Ewart,u313766,u308537
+1750,u320077,born,Ibbie Ackerman,u310564,u313057
+1750,u320085,born,Gypsy Simen,u310809,u314542
+1750,u320093,born,Dannie Seaver-Corey,u313169,u310323
+1750,u320126,born,Drake Falconer,u315383,u305200
+1750,u320149,born,Darren Robbins,u313311,u308477
+1750,u318207,died
+1750,u318511,died
+1750,u319057,died
+1750,u319303,died
+1750,u319323,died
+1750,u319551,died
+1751,u320322,born,Grady Ackerman,u310564,u313057
+1751,u320325,born,Allyn Robbins,u313311,u308477
+1751,u320328,born,Cullen Seaver-Corey,u313169,u310323
+1751,u320333,born,Kayden Ewart,u310809,u314542
+1751,u320336,born,Lynsay Falconer,u315383,u305200
+1751,u320346,born,Diggory Ewart,u313766,u308537
+1751,u320372,born,Candyce Fay,u313056,u308807
+1751,u320526,born,Brooklyn Ewart,u313062,u307656
+1751,u299306,died
+1751,u300375,died
+1751,u300376,died
+1751,u301379,died
+1751,u313277,died
+1751,u318222,died
+1751,u318505,died
+1751,u320085,died
+1752,u320568,born,Florrie Fay,u313056,u308807
+1752,u320570,born,Kassandra Robbins,u313311,u308477
+1752,u320571,born,Madge Falconer,u315383,u305200
+1752,u320573,born,Allyn Seaver-Corey,u313169,u310323
+1752,u320593,born,Madge Peck,u313766,u308537
+1752,u320601,born,Harold Ewart,u310809,u314542
+1752,u320618,born,Sonia Ewart,u313062,u307656
+1752,u318798,died
+1752,u319021,died
+1752,u319126,died
+1752,u319550,died
+1752,u319612,died
+1752,u319824,died
+1752,u320077,died
+1752,u320325,died
+1753,u320811,born,Darryl Robbins,u313311,u308477
+1753,u320814,born,Harold Ewart,u313062,u307656
+1753,u320833,born,Merlyn Seaver-Corey,u313169,u310323
+1753,u320845,born,Marvin Ewart,u313766,u308537
+1753,u321062,born,Odell Mills,u314025,u314018
+1753,u299750,died
+1753,u299927,died
+1753,u300910,died
+1753,u317920,died
+1753,u318766,died
+1753,u319866,died
+1753,u320328,died
+1753,u320336,died
+1753,u320571,died
+1754,u321085,born,Alexandrina Robbins,u313311,u308477
+1754,u321094,born,Sienna Mills,u314025,u314018
+1754,u321098,born,Michael Ewart,u313766,u308537
+1754,u321101,born,Ariel Emerson,u313169,u310323
+1754,u321150,born,Forest Ewart,u313062,u307656
+1754,u319320,died
+1754,u320568,died
+1754,u320573,died
+1754,u320811,died
+1755,u321349,born,Ricky Huxtable,u313311,u308477
+1755,u321351,born,Darren Mills-Christopherson,u316838,u314498
+1755,u321355,born,Eliana Mills,u314025,u314018
+1755,u321392,born,Gwenda Seaver-Corey,u313169,u310323
+1755,u321429,born,Tranter Ewart,u313062,u307656
+1755,u321477,born,Joss Ewart,u313766,u308537
+1755,u299297,died
+1755,u318490,died
+1755,u320075,died
+1755,u320618,died
+1755,u321098,died
+1756,u321625,born,Gypsy Sexton,u313311,u308477
+1756,u321626,born,Joss Mills,u316838,u314498
+1756,u321629,born,Ella Ewart,u313062,u307656
+1756,u321636,born,Danita Ewart,u313766,u308537
+1756,u321667,born,Gordon Seaver-Corey,u313169,u310323
+1756,u321686,born,Kassandra Bush,u314025,u314018
+1756,u321875,born,Eldon Baines-Baines,---,---
+1756,u306323,died
+1756,u306552,died
+1756,u320093,died
+1756,u320149,died
+1756,u320372,died
+1756,u320833,died
+1756,u321062,died
+1756,u321085,died
+1757,u321893,born,Carmen Mills,u314025,u314018
+1757,u321895,born,Diggory Ewart,u313062,u307656
+1757,u321896,born,Gerrard Robbins,u313311,u308477
+1757,u321922,born,Merit Seaver-Corey,u313169,u310323
+1757,u321933,born,Gregg Ewart,u313766,u308537
+1757,u321953,born,Florrie Mills,u316838,u314498
+1757,u304545,died
+1757,u319833,died
+1757,u321392,died
+1757,u321429,died
+1758,u322145,born,Madge Robbins,u313311,u308477
+1758,u322147,born,Elisa Mills,u316838,u314498
+1758,u322148,born,Darian Ewart,u313062,u307656
+1758,u322149,born,Elisa Ewart,u313766,u308537
+1758,u322168,born,Gerrard Robbins,---,---
+1758,u322174,born,Joe Seaver-Corey,u313169,u310323
+1758,u301919,died
+1758,u319552,died
+1758,u321094,died
+1758,u321101,died
+1758,u321349,died
+1758,u321893,died
+1759,u322347,born,Chasity Ewart,u313062,u307656
+1759,u322349,born,Carran Robbins,u313311,u308477
+1759,u322359,born,Lorrie Mills,u316838,u314498
+1759,u322361,born,Keira Ewart-Christopherson,u313766,u308537
+1759,u322395,born,Brannon Seaver-Corey,u313169,u310323
+1759,u322484,born,Desirae Mathews,---,---
+1759,u303230,died
+1759,u303906,died
+1759,u321351,died
+1759,u321667,died
+1759,u321875,died
+1759,u321896,died
+1760,u322599,born,Madge Mills,u316838,u314498
+1760,u322647,born,Clint Seaver-Corey,u313169,u310323
+1760,u322651,born,Gordon Ewart,u313062,u307656
+1760,u322652,born,Florrie Robbins,u313311,u308477
+1760,u322766,born,Florrie Seaver-Corey,u318208,u311262
+1760,u300877,died
+1760,u300896,died
+1760,u302232,died
+1760,u303052,died
+1760,u303449,died
+1760,u303713,died
+1760,u304325,died
+1760,u320601,died
+1760,u321477,died
+1760,u321625,died
+1760,u321953,died
+1760,u322145,died
+1761,u322833,born,Joselyn Ewart,u313062,u307656
+1761,u322839,born,Sienna Mills,u316838,u314498
+1761,u322842,born,Shannon Seaver-Corey,u318208,u311262
+1761,u322844,born,Louis Seaver-Corey,u313169,u310323
+1761,u322871,born,Travis Robbins,u313311,u308477
+1761,u302065,died
+1761,u305487,died
+1761,u320570,died
+1761,u320814,died
+1761,u321933,died
+1761,u322147,died
+1761,u322149,died
+1761,u322168,died
+1761,u322766,died
+1762,u323056,born,Carmen Robbins,u313311,u308477
+1762,u323060,born,Juniper Seaver-Corey,u313169,u310323
+1762,u323072,born,Keira Seaver-Corey,u318208,u311262
+1762,u323077,born,Hepsie Ewart,u313062,u307656
+1762,u323095,born,Gregg Christopherson,u316838,u314498
+1762,u323292,born,Steven Devine,u314758,u315007
+1762,u302192,died
+1762,u302793,died
+1762,u303728,died
+1762,u306571,died
+1762,u319838,died
+1762,u320526,died
+1762,u322174,died
+1763,u323308,born,Hepsie Robbins,u313311,u308477
+1763,u323320,born,Ellington Yates,u319032,u314341
+1763,u323343,born,Tahnee Seaver-Corey,u318208,u311262
+1763,u323354,born,Joss Devine,u314758,u315007
+1763,u323355,born,Candyce Mills,u316838,u314498
+1763,u301391,died
+1763,u303710,died
+1763,u304149,died
+1763,u320322,died
+1763,u321626,died
+1763,u322148,died
+1763,u322361,died
+1763,u322484,died
+1763,u322651,died
+1763,u323095,died
+1764,u323530,born,Ellington Noel,u319032,u314341
+1764,u323535,born,Eliana Mills,u316838,u314498
+1764,u323546,born,Eliot Seaver-Corey,u318208,u311262
+1764,u323560,born,Darian Robbins,u316313,u317992
+1764,u322842,died
+1764,u323292,died
+1765,u323780,born,Madge Robbins,u316313,u317992
+1765,u323781,born,Chloë Noel,u319032,u314341
+1765,u323793,born,Clint Seaver-Corey,u318208,u311262
+1765,u323847,born,Crew Mills-Christopherson,u316838,u314498
+1765,u304562,died
+1765,u305414,died
+1765,u305439,died
+1765,u320126,died
+1765,u321629,died
+1765,u321922,died
+1765,u322349,died
+1765,u322359,died
+1765,u322844,died
+1765,u323308,died
+1765,u323355,died
+1765,u323530,died
+1766,u324042,born,Desirae Noel,u319032,u314341
+1766,u324055,born,Elisa Robbins,u316313,u317992
+1766,u324107,born,Debby Falconer,u316310,u311756
+1766,u324110,born,Forest Mills,u316838,u314498
+1766,u301633,died
+1766,u303086,died
+1766,u305656,died
+1766,u319872,died
+1766,u323072,died
+1767,u324296,born,Ella Robbins,u316313,u317992
+1767,u324304,born,Meade Falconer,u316310,u311756
+1767,u324337,born,Bud Mills,u316838,u314498
+1767,u324375,born,Joe Noel,u319032,u314341
+1767,u304532,died
+1767,u322599,died
+1767,u323077,died
+1767,u323354,died
+1767,u323781,died
+1768,u324564,born,Joe Mills,u316838,u314498
+1768,u324569,born,Forest Noel,u319032,u314341
+1768,u324583,born,Lynsay Falconer,u316310,u311756
+1768,u324601,born,Tranter Robbins,u316313,u317992
+1768,u324633,born,Kathlyn Gabrielson,---,---
+1768,u302999,died
+1768,u307657,died
+1768,u321355,died
+1768,u322652,died
+1768,u323343,died
+1768,u323560,died
+1768,u323780,died
+1768,u323847,died
+1768,u324110,died
+1769,u324850,born,Viona Falconer,u316310,u311756
+1769,u324851,born,London Christopherson,u317086,u316616
+1769,u324867,born,Eliana Robbins,u316313,u317992
+1769,u324882,born,Keira Noel,u319032,u314341
+1769,u324889,born,Ariel Mills-Christopherson,u316838,u314498
+1769,u324936,born,Flanagan Ewart,u319858,u318761
+1769,u324937,born,Meade Ackerman,u314758,u316812
+1769,u307013,died
+1769,u324304,died
+1770,u325135,born,Marvin Noel,u319032,u314341
+1770,u325139,born,Chasity Ewart,u319858,u318761
+1770,u325171,born,Silver Mills,u316838,u314498
+1770,u325174,born,Madge Falconer,u316310,u311756
+1770,u325199,born,Lacey Robbins,u316313,u317992
+1770,u325261,born,Desirae Christopherson,u317086,u316616
+1770,u303692,died
+1770,u322833,died
+1770,u322839,died
+1770,u324375,died
+1770,u324889,died
+1771,u325426,born,Clifton Robbins,u316313,u317992
+1771,u325427,born,Madge Falconer,u316310,u311756
+1771,u325435,born,Eliot Mills,u316838,u314498
+1771,u325477,born,Gwenda Noel,u319032,u314341
+1771,u325483,born,Carran Christopherson,u317086,u316616
+1771,u325491,born,Sonia Ewart,u319858,u318761
+1771,u303002,died
+1771,u306624,died
+1771,u323060,died
+1771,u323546,died
+1771,u325171,died
+1772,u325695,born,Viona Mills,u316838,u314498
+1772,u325697,born,Steven Christopherson,u317086,u316616
+1772,u325700,born,Hepsie Falconer,u316310,u311756
+1772,u325702,born,Merit Ewart,u319858,u318761
+1772,u325714,born,Candyce Robbins,u316313,u317992
+1772,u325719,born,Maurine Noel,u319032,u314341
+1772,u324296,died
+1772,u324583,died
+1772,u324601,died
+1772,u324850,died
+1772,u324882,died
+1772,u324936,died
+1772,u325139,died
+1772,u325427,died
+1773,u325930,born,Marvin Falconer,u316310,u311756
+1773,u325935,born,Tawnee Ewart,u319858,u318761
+1773,u325936,born,Margo Christopherson,u317086,u316616
+1773,u325948,born,Shayne Noel,u319032,u314341
+1773,u325973,born,Genie Robbins,u316313,u317992
+1773,u325989,born,Retha Mills,u316838,u314498
+1773,u303473,died
+1773,u324107,died
+1773,u324564,died
+1773,u325261,died
+1773,u325719,died
+1774,u326166,born,Flanagan Ewart,u319858,u318761
+1774,u326175,born,Ellington Noel,u319032,u314341
+1774,u326181,born,Cullen Mills,u316838,u314498
+1774,u326217,born,Tisha Killam,---,---
+1774,u326227,born,Stacie Falconer,u316310,u311756
+1774,u326250,born,Margo Ackerman,u321636,u316569
+1774,u304742,died
+1774,u306883,died
+1774,u324569,died
+1774,u324851,died
+1774,u325697,died
+1774,u325702,died
+1774,u325973,died
+1775,u326377,born,London Ewart,u319858,u318761
+1775,u326382,born,Travis Ackerman,u321636,u316569
+1775,u326390,born,Steven Mills,u316838,u314498
+1775,u326394,born,Crew Noel,u319032,u314341
+1775,u326404,born,Carmen Falconer,u316310,u311756
+1775,u326478,born,Tamika Newell,---,---
+1775,u326512,born,Hepsie Simen,---,---
+1775,u326559,born,Eldon Seaver-Corey,u316313,u311262
+1775,u306561,died
+1775,u324055,died
+1775,u324633,died
+1775,u325491,died
+1775,u325714,died
+1775,u325935,died
+1775,u326166,died
+1775,u326227,died
+1776,u326582,born,Joselyn Noel,u319032,u314341
+1776,u326583,born,Chasity Mills,u316838,u314498
+1776,u326610,born,Carran Ackerman,u321636,u316569
+1776,u326620,born,Drake Ewart,u319858,u318761
+1776,u304168,died
+1776,u305181,died
+1776,u305200,died
+1776,u308807,died
+1776,u309164,died
+1776,u316616,died
+1776,u325135,died
+1776,u326181,died
+1776,u326478,died
+1777,u326804,born,Ricky Mills,u316838,u314498
+1777,u326806,born,Cali Noel,u319032,u314341
+1777,u326808,born,Silver Ackerman,u321636,u316569
+1777,u326823,born,Stacie Ewart,u319858,u318761
+1777,u326958,born,Ricky Robbins,u320593,u317992
+1777,u308171,died
+1777,u308537,died
+1777,u325700,died
+1777,u325930,died
+1777,u325948,died
+1777,u325989,died
+1777,u326382,died
+1777,u326559,died
+1778,u327087,born,Braiden Ackerman,u321636,u316569
+1778,u327109,born,Sonia Noel,u319032,u314341
+1778,u327135,born,Joselyn Ewart-Falconer,u319858,u318761
+1778,u327204,born,Hepsie Robbins,u320593,u317992
+1778,u305188,died
+1778,u325174,died
+1778,u326394,died
+1778,u326610,died
+1778,u326823,died
+1779,u327356,born,Madge Ewart,u319858,u318761
+1779,u327362,born,Joe Robbins,u320593,u317992
+1779,u327367,born,Erin Fay,u322347,u313514
+1779,u327372,born,Caelan Noel,u319032,u314341
+1779,u326958,died
+1780,u327633,born,Tisha Noel,u319032,u314341
+1780,u327638,born,Hepsie Fay,u322347,u313514
+1780,u327650,born,Bethel Robbins,u320593,u317992
+1780,u327665,born,Debby Ewart,u319858,u318761
+1780,u327690,born,Chasity Foster,---,---
+1780,u327803,born,Michael Corey,---,---
+1780,u307019,died
+1780,u325477,died
+1780,u325695,died
+1780,u326404,died
+1780,u326582,died
+1781,u327869,born,Genie Pound,u322347,u313514
+1781,u327884,born,Madge Ewart,u319858,u318761
+1781,u327905,born,Beckham Noel,u319032,u314341
+1781,u327971,born,Lorrie Robbins,u320593,u317992
+1781,u305264,died
+1781,u309001,died
+1781,u311256,died
+1781,u326512,died
+1782,u328121,born,Carrol Fay,u322347,u313514
+1782,u328125,born,Merit Robbins,u320593,u317992
+1782,u328144,born,Kassandra Ewart,u319858,u318761
+1782,u328156,born,Teagan Noel,u319032,u314341
+1782,u328265,born,Gordon Robbins,u323535,u317992
+1782,u328320,born,Darryl Ewart,u318208,u320845
+1782,u307516,died
+1782,u308370,died
+1782,u311262,died
+1782,u326806,died
+1782,u327135,died
+1782,u327356,died
+1782,u327650,died
+1783,u328344,born,Lacey Robbins,u323535,u317992
+1783,u328349,born,Ellington Fay,u322347,u313514
+1783,u328387,born,London Ewart,u319858,u318761
+1783,u328401,born,Flanagan Noel,u319032,u314341
+1783,u327372,died
+1783,u328121,died
+1784,u328579,born,Cletus Noel,u319032,u314341
+1784,u328587,born,Travis Ewart,u319858,u318761
+1784,u328595,born,Tahnee Fay,u322347,u313514
+1784,u328677,born,Kolton Robbins,u323535,u317992
+1784,u328778,born,Diggory Ackerman,u324042,u316569
+1784,u307654,died
+1784,u311738,died
+1784,u326583,died
+1784,u326620,died
+1784,u327633,died
+1784,u327665,died
+1784,u327971,died
+1784,u328401,died
+1785,u328809,born,Ellington Robbins,u323535,u317992
+1785,u328810,born,Jenny Fay,u322347,u313514
+1785,u328812,born,Leanna Ackerman,u324042,u316569
+1785,u328820,born,Travis Noel,u319032,u314341
+1785,u328830,born,Shannon Ewart,u319858,u318761
+1785,u307248,died
+1785,u311267,died
+1785,u328156,died
+1785,u328320,died
+1785,u328387,died
+1786,u329065,born,Silver Ackerman,u324042,u316569
+1786,u329070,born,Hepsie Robbins,u323535,u317992
+1786,u329105,born,Brooklyn Fay,u322347,u313514
+1786,u329162,born,Sienna Bunker,---,---
+1786,u327087,died
+1786,u327638,died
+1786,u328677,died
+1786,u328812,died
+1787,u329297,born,Carrol Robbins,u323535,u317992
+1787,u329307,born,Dillan Ackerman,u324042,u316569
+1787,u329330,born,Erin Seaver-Corey,u320593,u322395
+1787,u329338,born,Ellington Yates,u322347,u313514
+1787,u307656,died
+1787,u327109,died
+1787,u327362,died
+1788,u329535,born,Tawnee Robbins,u323535,u317992
+1788,u329550,born,Leanna Fay,u322347,u313514
+1788,u329594,born,Marvin Seaver-Corey,u320593,u322395
+1788,u329599,born,Marlon Ackerman,u324042,u316569
+1788,u308477,died
+1788,u309546,died
+1788,u328125,died
+1788,u328144,died
+1788,u328349,died
+1788,u329065,died
+1788,u329105,died
+1789,u329788,born,Desirae Ackerman,u324042,u316569
+1789,u329789,born,Braiden Fay,u322347,u313514
+1789,u329799,born,Candyce Robbins,u323535,u317992
+1789,u329805,born,Stacie Seaver-Corey,u320593,u322395
+1789,u327884,died
+1789,u328344,died
+1789,u328579,died
+1789,u328809,died
+1789,u329162,died
+1789,u329297,died
+1789,u329550,died
+1790,u330076,born,Madge Robbins,u323535,u317992
+1790,u330077,born,Beckham Seaver-Corey,u320593,u322395
+1790,u330083,born,Darryl Ackerman,u324042,u316569
+1790,u309703,died
+1790,u329070,died
+1790,u329338,died
+1790,u329535,died
+1791,u330409,born,Louis Robbins,u323535,u317992
+1791,u330414,born,Tamika Seaver-Corey,u320593,u322395
+1791,u330420,born,Danita Ackerman,u324042,u316569
+1791,u330488,born,Lynsay Noel,u321636,u326175
+1791,u307910,died
+1791,u310809,died
+1791,u329307,died
+1791,u329789,died
+1792,u330710,born,Merlyn Adams,u323535,u317992
+1792,u330717,born,Merit Ewart,u325936,u321150
+1792,u330718,born,Braiden Ackerman,u324042,u316569
+1792,u330731,born,Chasity Noel,u321636,u326175
+1792,u330784,born,Lynsay Victors,---,---
+1792,u330850,born,Carrol Falconer,u321686,u316829
+1792,u310366,died
+1792,u329805,died
+1792,u330076,died
+1793,u330977,born,Hepsie Falconer,u321686,u316829
+1793,u330988,born,Jamison Ewart,u325936,u321150
+1793,u331007,born,Gypsy Ackerman,u324042,u316569
+1793,u331027,born,Carrol Noel-Ewart,u321636,u326175
+1793,u331031,born,Carrol Robbins-Mills,u323535,u317992
+1793,u308504,died
+1793,u327690,died
+1793,u329788,died
+1793,u330077,died
+1794,u331277,born,Teagan Ackerman,u324042,u316569
+1794,u331286,born,Braiden Robbins,u323535,u317992
+1794,u331288,born,Ibbie Falconer,u321686,u316829
+1794,u331316,born,Meade Ewart,u325936,u321150
+1794,u331341,born,Alexandrina Ewart,u321636,u326175
+1794,u310094,died
+1794,u328820,died
+1794,u330409,died
+1794,u330717,died
+1794,u330977,died
+1795,u331548,born,Darryl Robbins,u323535,u317992
+1795,u331552,born,Ibbie Ackerman,u324042,u316569
+1795,u331566,born,Gerrard Noel,u321636,u326175
+1795,u331567,born,Brannon Falconer,u321686,u316829
+1795,u331589,born,Cali Ewart,u325936,u321150
+1795,u309888,died
+1795,u311865,died
+1795,u329330,died
+1795,u330710,died
+1795,u330850,died
+1795,u331286,died
+1796,u331806,born,Bud Ewart,u325936,u321150
+1796,u331823,born,Kayden Ackerman,u324042,u316569
+1796,u331825,born,Sondra Robbins,u323535,u317992
+1796,u332008,born,Allyn Ewart,---,---
+1796,u332024,born,Odell Falconer,u327204,u315577
+1796,u309705,died
+1796,u311542,died
+1796,u313062,died
+1796,u313311,died
+1796,u330420,died
+1796,u330731,died
+1796,u330784,died
+1796,u331567,died
+1797,u332085,born,Madge Ewart,u325936,u321150
+1797,u332090,born,Gypsy Falconer,u327204,u315577
+1797,u332101,born,Darren Ackerman,u324042,u316569
+1797,u332163,born,Kassandra Robbins,u323535,u317992
+1797,u312656,died
+1797,u331007,died
+1797,u331288,died
+1798,u332342,born,Grady Kennard,u324042,u316569
+1798,u332345,born,Kayden Ewart,u325936,u321150
+1798,u332353,born,Steven Robbins,u323535,u317992
+1798,u332418,born,Darren Ackerman,u323056,u326808
+1798,u332485,born,Debby Mills,u324867,u325435
+1798,u329799,died
+1798,u332024,died
+1799,u332600,born,Shayne Mills,u324867,u325435
+1799,u332604,born,Cullen Ackerman,u323056,u326808
+1799,u332644,born,Lorrie Ryland,u325936,u321150
+1799,u332664,born,Candyce Mills,u325199,u326390
+1799,u332767,born,Joselyn Robbins,u323535,u317992
+1799,u310095,died
+1799,u310117,died
+1799,u310564,died
+1799,u315007,died
+1799,u315787,died
+1799,u330718,died
+1799,u331341,died
+1799,u331566,died
+1799,u332418,died
+1800,u332909,born,Stacie Ewart,u325936,u321150
+1800,u332911,born,Clint Mills,u325199,u326390
+1800,u332920,born,Gypsy Ackerman,u323056,u326808
+1800,u332922,born,Diggory Robbins,u323535,u317992
+1800,u332928,born,Ariel Mills,u324867,u325435
+1800,u332974,born,Dannie Corey,u327869,u327803
+1800,u309376,died
+1800,u331031,died
+1800,u331552,died
+1800,u332101,died
+1800,u332342,died
+1800,u332604,died
+1800,u332644,died
+1801,u333220,born,Steven Mills,u325199,u326390
+1801,u333222,born,Crew Ewart,u325936,u321150
+1801,u333224,born,Tahnee Mills,u324867,u325435
+1801,u333236,born,Kassandra Corey,u327869,u327803
+1801,u333244,born,Erin Glass,u323056,u326808
+1801,u333249,born,Braiden Starr,---,---
+1801,u312174,died
+1801,u331806,died
+1801,u331823,died
+1801,u332085,died
+1801,u332345,died
+1801,u332664,died
+1802,u333496,born,Desirae Mathews,u327869,u327803
+1802,u333510,born,Carran Mills,u324867,u325435
+1802,u333512,born,Brannon Mills,u325199,u326390
+1802,u333543,born,Elisa Ewart,u325936,u321150
+1802,u333573,born,Braiden Starr-Starr,---,---
+1802,u309358,died
+1802,u332090,died
+1802,u332600,died
+1802,u332767,died
+1803,u333752,born,Stacie Ewart,u325936,u321150
+1803,u333772,born,Genie Mills,u325199,u326390
+1803,u333781,born,Caelan Mills,u324867,u325435
+1803,u333791,born,Gordon Corey,u327869,u327803
+1803,u310323,died
+1803,u311741,died
+1803,u314758,died
+1803,u331277,died
+1803,u333222,died
+1803,u333543,died
+1804,u333996,born,Jamison Corey,u327869,u327803
+1804,u333997,born,Tahnee Ewart,u325936,u321150
+1804,u333998,born,London Mills,u324867,u325435
+1804,u334002,born,Jenny Mills,u325199,u326390
+1804,u311756,died
+1804,u313057,died
+1804,u333510,died
+1804,u333772,died
+1805,u334232,born,Brannon Noel,u327367,u327905
+1805,u334234,born,Ellington Mills,u325199,u326390
+1805,u334239,born,Steven Corey,u327869,u327803
+1805,u334260,born,Shannon Mills,u324867,u325435
+1805,u334444,born,Shayne Robbins,u326217,u325426
+1805,u313169,died
+1805,u314062,died
+1805,u330488,died
+1805,u331589,died
+1805,u332353,died
+1805,u332920,died
+1805,u333236,died
+1805,u333249,died
+1805,u333781,died
+1805,u333996,died
+1805,u334002,died
+1806,u334448,born,Shayne Mills,u324867,u325435
+1806,u334457,born,Maurine Noel,u327367,u327905
+1806,u334459,born,Keira Robbins,u326217,u325426
+1806,u334462,born,Flanagan Mills,u325199,u326390
+1806,u334477,born,Ibbie Ayers,---,---
+1806,u334495,born,Viona Corey,u327869,u327803
+1806,u334572,born,Candyce Ackerman,u328810,u328778
+1806,u333573,died
+1806,u333998,died
+1807,u334624,born,Sonia Mills,u325199,u326390
+1807,u334625,born,Brooklyn Corey-Pound,u327869,u327803
+1807,u334650,born,Gypsy Ackerman,u328810,u328778
+1807,u334653,born,Gordon Robbins,u326217,u325426
+1807,u334718,born,Sienna Noel,u327204,u327905
+1807,u314018,died
+1807,u314498,died
+1807,u332008,died
+1807,u332909,died
+1807,u333220,died
+1807,u334448,died
+1808,u334807,born,Tawnee Corey,u327869,u327803
+1808,u334808,born,Gwenda Ackerman,u328810,u328778
+1808,u334810,born,Kayden Robbins,u326217,u325426
+1808,u334818,born,Eldon Noel,u327204,u327905
+1808,u316057,died
+1808,u332922,died
+1808,u333997,died
+1808,u334232,died
+1808,u334239,died
+1809,u335012,born,Kayden Noel,u327204,u327905
+1809,u335015,born,Alexandrina Ackerman,u328810,u328778
+1809,u335017,born,Ellington Corey,u327869,u327803
+1809,u335043,born,Eldon Robbins,u326217,u325426
+1809,u313056,died
+1809,u314542,died
+1809,u315577,died
+1809,u316313,died
+1809,u333224,died
+1809,u334807,died
+1809,u334818,died
+1810,u335196,born,Hepsie Robbins,u326217,u325426
+1810,u335197,born,Merit Ackerman,u328810,u328778
+1810,u335203,born,Judd Noel,u327204,u327905
+1810,u335224,born,Forest Corey,u325936,u327803
+1810,u335317,born,Carran Braddock,---,---
+1810,u332974,died
+1810,u333496,died
+1810,u334260,died
+1810,u334462,died
+1810,u334572,died
+1810,u334624,died
+1810,u334653,died
+1810,u335015,died
+1811,u335359,born,Brannon Corey,u325936,u327803
+1811,u335376,born,Darryl Noel,u327204,u327905
+1811,u335386,born,Orville Ackerman,u328810,u328778
+1811,u314025,died
+1811,u314341,died
+1811,u334495,died
+1811,u334650,died
+1812,u335546,born,Tamika Ackerman,u328810,u328778
+1812,u335548,born,Jenny Noel,u327204,u327905
+1812,u335553,born,Leanna Corey,u325936,u327803
+1812,u335647,born,Bud Mills,u328595,u326804
+1812,u312848,died
+1812,u332928,died
+1812,u333791,died
+1812,u334718,died
+1813,u335762,born,Chasity Ackerman,u328810,u328778
+1813,u335767,born,Genie Mills,u328595,u326804
+1813,u335792,born,Clifton Noel,u327204,u327905
+1813,u334457,died
+1813,u335376,died
+1813,u335546,died
+1813,u335647,died
+1814,u335985,born,Eliana Ackerman,u332163,u326808
+1814,u335990,born,Brannon Barret,u327204,u327905
+1814,u335993,born,Shayne Ackerman,u328810,u328778
+1814,u336001,born,Trey Mills,u328595,u326804
+1814,u336095,born,Kolton Macey,---,---
+1814,u336133,born,Steven Mills,u327869,u324337
+1814,u314014,died
+1815,u336237,born,Brooklyn Corey,---,---
+1815,u336239,born,Erin Noel,u327204,u327905
+1815,u336244,born,Carran Ackerman,u332163,u326808
+1815,u336246,born,Madge Mills,u328595,u326804
+1815,u336248,born,Juniper Ackerman,u328810,u328778
+1815,u336259,born,Tamika Mills,u327869,u324337
+1815,u336310,born,Steven Ackerman,u332485,u329599
+1815,u334625,died
+1815,u334808,died
+1815,u335386,died
+1815,u335762,died
+1816,u336477,born,Darian Mills,u328595,u326804
+1816,u336479,born,Ariel Ackerman,u328810,u328778
+1816,u336484,born,Jenny Ackerman,u332163,u326808
+1816,u336485,born,Tawnee Ackerman,u332485,u329599
+1816,u336486,born,Roscoe Noel,u327204,u327905
+1816,u336492,born,Danita Mills,u327869,u324337
+1816,u313514,died
+1816,u334444,died
+1816,u334459,died
+1816,u334810,died
+1816,u335767,died
+1816,u335985,died
+1817,u336739,born,Forest Noel,u327204,u327905
+1817,u336743,born,Meade Ackerman,u332163,u326808
+1817,u336745,born,Retha Ackerman,u328810,u328778
+1817,u336750,born,Debby Ackerman,u332485,u329599
+1817,u336754,born,Beckham Mills,u327869,u324337
+1817,u336787,born,Diggory Mills,u328595,u326804
+1817,u316829,died
+1817,u317651,died
+1817,u335012,died
+1817,u335203,died
+1817,u335993,died
+1817,u336248,died
+1817,u336259,died
+1817,u336485,died
+1818,u336967,born,Diggory Ackerman,u328810,u328778
+1818,u336970,born,Leanna Derrickson,u327869,u324337
+1818,u336977,born,Lee Ackerman,u332485,u329599
+1818,u337021,born,Judd Ackerman,u332163,u326808
+1818,u337109,born,Louis Woodrow,---,---
+1818,u337113,born,Merit Ewart,u333244,u328587
+1818,u319036,died
+1818,u335317,died
+1818,u335548,died
+1818,u336001,died
+1818,u336486,died
+1819,u337165,born,Tisha Mills,u327869,u324337
+1819,u337169,born,Ellington Mills,u330414,u326804
+1819,u337172,born,Keira Ackerman,u332163,u326808
+1819,u337173,born,Dannie Ackerman,u332485,u329599
+1819,u337177,born,Kathlyn Ackerman,u328810,u328778
+1819,u337184,born,Tisha Ewart,u333244,u328587
+1819,u334477,died
+1819,u336239,died
+1819,u336246,died
+1819,u336743,died
+1819,u336750,died
+1819,u337021,died
+1820,u337376,born,Dannie Mills,u330414,u326804
+1820,u337380,born,Shayne Cornett,u327869,u324337
+1820,u337382,born,Candyce Seaver-Corey,u333752,u322395
+1820,u337387,born,Carran Ewart,u333244,u328587
+1820,u337388,born,Brannon Ackerman,u332163,u326808
+1820,u337397,born,Dannie Ackerman,u332485,u329599
+1820,u337398,born,Carran Braddock,u328810,u328778
+1820,u313766,died
+1820,u314793,died
+1820,u335359,died
+1820,u336477,died
+1820,u336479,died
+1820,u336745,died
+1820,u336787,died
+1820,u337184,died
+1821,u337627,born,Desirae Ackerman,u332485,u329599
+1821,u337628,born,Gypsy Mills,u330414,u326804
+1821,u337640,born,Ariel Seaver-Corey,u333752,u322395
+1821,u337642,born,Drake Ackerman,u328810,u328778
+1821,u337644,born,Bryanne Ackerman,u332163,u326808
+1821,u337685,born,Lorrie Glass,u333244,u328587
+1821,u337880,born,Eliana Ewart,u328830,u322647
+1821,u316812,died
+1821,u316838,died
+1821,u336754,died
+1821,u337177,died
+1821,u337398,died
+1822,u337896,born,Meade Ackerman,u332485,u329599
+1822,u337897,born,Drake Ackerman,u328810,u328778
+1822,u337902,born,Shannon Ackerman,u332163,u326808
+1822,u337909,born,Ellington Ewart,u333244,u328587
+1822,u337916,born,Shayne Cornett,u328830,u322647
+1822,u337928,born,Joss Mills,u330414,u326804
+1822,u337939,born,Jenny Seaver-Corey,u333752,u322395
+1822,u337969,born,Meade Noel-Ewart,u331825,u331027
+1822,u338058,born,Ian Crewe,---,---
+1822,u317079,died
+1822,u335792,died
+1822,u335990,died
+1822,u336310,died
+1822,u336967,died
+1822,u336970,died
+1822,u337165,died
+1822,u337387,died
+1823,u338167,born,Travis Ackerman,u332163,u326808
+1823,u338169,born,Joe Noel-Ewart,u331825,u331027
+1823,u338170,born,Candyce Ewart,u333244,u328587
+1823,u338183,born,Allyn Ackerman-Fay,u328810,u328778
+1823,u338184,born,Malone Seaver-Corey,u333752,u322395
+1823,u338193,born,Hepsie Mills,u330414,u326804
+1823,u338225,born,Forest Seaver-Corey,u328830,u322647
+1823,u338285,born,Sondra Southgate-Southgate,---,---
+1823,u316569,died
+1823,u335043,died
+1823,u337376,died
+1823,u337685,died
+1823,u337880,died
+1823,u337896,died
+1824,u338425,born,Eliana Ackerman,u332163,u326808
+1824,u338427,born,Diggory Seaver-Corey,u328830,u322647
+1824,u338436,born,Malone Ackerman,u328810,u328778
+1824,u338440,born,Kathlyn Noel-Ewart,u331825,u331027
+1824,u338447,born,Keira Mills,u330414,u326804
+1824,u338460,born,Candyce Ewart,u333244,u328587
+1824,u338483,born,Dannie Garner,---,---
+1824,u315383,died
+1824,u316310,died
+1824,u337380,died
+1824,u337388,died
+1824,u337628,died
+1824,u337909,died
+1824,u338285,died
+1825,u338679,born,Brooklyn Ewart,u333244,u328587
+1825,u338684,born,Genie Mills,u330414,u326804
+1825,u338694,born,Carmen Noel-Ewart,u331825,u331027
+1825,u338706,born,Viona Ackerman,u332163,u326808
+1825,u338170,died
+1825,u338460,died
+1826,u338909,born,Joe Mills,u330414,u326804
+1826,u338927,born,Lorrie Noel-Ewart,u331825,u331027
+1826,u338934,born,Eldon Ackerman,u332163,u326808
+1826,u339004,born,Ibbie Ewart,u333244,u328587
+1826,u336739,died
+1826,u337169,died
+1826,u337644,died
+1826,u337902,died
+1827,u339154,born,Roscoe Noel-Ewart,u331825,u331027
+1827,u339155,born,Brooklyn Ackerman,u332163,u326808
+1827,u339173,born,Jenny Yates,u335196,u323320
+1827,u339175,born,Clint Ewart,u333244,u328587
+1827,u339229,born,Eliana Mills,u330414,u326804
+1827,u321895,died
+1827,u337397,died
+1827,u337640,died
+1827,u337642,died
+1827,u337897,died
+1827,u338425,died
+1827,u338436,died
+1827,u338909,died
+1828,u339399,born,Sonia Corey-Mills,u330414,u326804
+1828,u339412,born,Sienna Ackerman,u332163,u326808
+1828,u339430,born,Joss Ewart,u333244,u328587
+1828,u339458,born,Shannon Noel-Ewart,u331825,u331027
+1828,u318208,died
+1828,u336133,died
+1828,u338483,died
+1828,u338684,died
+1828,u338934,died
+1829,u339674,born,Silver Ackerman,u332163,u326808
+1829,u339699,born,Joe Noel-Ewart,u331825,u331027
+1829,u339787,born,Allyn Ewart-Glass,u333244,u328587
+1829,u317086,died
+1829,u319012,died
+1829,u319032,died
+1829,u338679,died
+1829,u338706,died
+1829,u339154,died
+1829,u339173,died
+1829,u339412,died
+1830,u339956,born,Marlon Ackerman,u332163,u326808
+1830,u339969,born,Maurine Noel-Ewart,u331825,u331027
+1830,u339973,born,Maurine Ewart,u333244,u328587
+1830,u340097,born,Joss Odell,u330414,u328265
+1830,u323535,died
+1830,u337113,died
+1830,u337939,died
+1830,u339229,died
+1831,u340153,born,Bethel Ewart,u333244,u328587
+1831,u340156,born,Elisa Ackerman,u332163,u326808
+1831,u340179,born,Ariel Noel-Ewart,u331825,u331027
+1831,u340239,born,Dannie Christopherson,u332485,u325483
+1831,u338927,died
+1831,u339787,died
+1832,u340354,born,Desirae Noel-Ewart,u331825,u331027
+1832,u340359,born,Debby Boon,u333244,u328587
+1832,u340365,born,Ibbie Christopherson,u332485,u325483
+1832,u340397,born,Genie Ackerman,u332163,u326808
+1832,u340493,born,Judd Carlyle,---,---
+1832,u340531,born,Flanagan Noel,---,---
+1832,u337969,died
+1832,u338694,died
+1832,u339458,died
+1833,u340583,born,Debby Boon,u332163,u326808
+1833,u340596,born,Michael Corey,u332485,u325483
+1833,u340598,born,Orville Ewart,u333244,u328587
+1833,u340603,born,Kolton Noel-Ewart,u331825,u331027
+1833,u318761,died
+1833,u320346,died
+1833,u320845,died
+1833,u339956,died
+1833,u339969,died
+1833,u340493,died
+1834,u340784,born,Judd Ewart,u333244,u328587
+1834,u340787,born,Candyce Christopherson,u332485,u325483
+1834,u340815,born,Meade Kimberly,u332163,u326808
+1834,u340866,born,Kayden Corey,u331825,u335224
+1834,u320333,died
+1834,u322647,died
+1834,u340097,died
+1834,u340603,died
+1835,u340960,born,Joss Corey,u331825,u335224
+1835,u340968,born,Shayne Christopherson,u332485,u325483
+1835,u340970,born,Gerrard Ackerman,u332163,u326808
+1835,u340991,born,Beckham Ewart,u333244,u328587
+1835,u341137,born,Beckham Britton,---,---
+1835,u339004,died
+1835,u340359,died
+1835,u340583,died
+1836,u341142,born,Retha Ewart,u333244,u328587
+1836,u341153,born,Elisa Ackerman,u332163,u326808
+1836,u341229,born,Alexandrina Robbins,u333752,u331548
+1836,u341260,born,Juniper Ewart,u337173,u331316
+1836,u340354,died
+1836,u340531,died
+1836,u340596,died
+1837,u341343,born,Marlon Ewart,u337173,u331316
+1837,u341344,born,Diggory Robbins,u333752,u331548
+1837,u341377,born,Retha Ewart,u333244,u328587
+1837,u317992,died
+1838,u341580,born,Ariel Robbins,u333752,u331548
+1838,u341617,born,Joss Ewart,u337173,u331316
+1838,u321636,died
+1838,u340397,died
+1839,u341790,born,Caelan Ackerman,u337173,u331316
+1839,u341817,born,Cullen Robbins,u333752,u331548
+1839,u341845,born,Gwenda Monday,---,---
+1839,u341955,born,Maurine Turner,---,---
+1839,u319858,died
+1839,u321686,died
+1839,u340156,died
+1839,u340866,died
+1839,u341343,died
+1840,u342009,born,Erin Robbins,u333752,u331548
+1840,u342038,born,Chasity Ewart,u337173,u331316
+1840,u342101,born,Lynsay Mills,u337382,u333512
+1840,u342147,born,Gordon Cornett,u336484,u337916
+1840,u320593,died
+1840,u341377,died
+1840,u341580,died
+1840,u341790,died
+1841,u342233,born,Brannon Mills,u337382,u333512
+1841,u342246,born,Michael Ewart,u337173,u331316
+1841,u342277,born,Flanagan Robbins,u333752,u331548
+1841,u342432,born,Tawnee Corey,u338447,u327803
+1841,u340365,died
+1841,u340970,died
+1841,u341229,died
+1841,u341845,died
+1841,u342101,died
+1842,u342452,born,Gwenda Robbins,u333752,u331548
+1842,u342463,born,Hepsie Ewart,u337173,u331316
+1842,u342484,born,Braiden Corey,u338447,u327803
+1842,u342492,born,Dannie Ackerman,u335553,u330083
+1842,u342509,born,Teagan Mills,u337382,u333512
+1842,u323056,died
+1842,u339674,died
+1842,u339699,died
+1842,u340179,died
+1842,u340239,died
+1842,u341817,died
+1842,u342147,died
+1843,u342699,born,Lee Ackerman,u335553,u330083
+1843,u342721,born,Sonia Ewart,u337173,u331316
+1843,u342724,born,Carrol Mills,u337382,u333512
+1843,u342756,born,Ibbie Corey,u338447,u327803
+1843,u342828,born,Meriel Reynolds,---,---
+1843,u340991,died
+1843,u341344,died
+1843,u342509,died
+1844,u342946,born,Merit Ackerman,u335553,u330083
+1844,u342949,born,Gypsy Mills,u337382,u333512
+1844,u342962,born,Steven Ewart,u337173,u331316
+1844,u343023,born,Crew Corey,u338447,u327803
+1844,u340968,died
+1844,u341955,died
+1844,u342233,died
+1844,u342277,died
+1844,u342463,died
+1844,u342699,died
+1844,u342724,died
+1845,u343188,born,Cletus Ewart,u337173,u331316
+1845,u343203,born,Dillan Mills,u337382,u333512
+1845,u343214,born,Erin Ackerman,u335553,u330083
+1845,u343322,born,Gwenda Ackerman,u339399,u328778
+1845,u321150,died
+1845,u323320,died
+1845,u342009,died
+1845,u342949,died
+1846,u343444,born,Darryl Mills,u337382,u333512
+1846,u343449,born,Cullen Ackerman,u335553,u330083
+1846,u343464,born,Danita Ackerman,u339399,u328778
+1846,u343481,born,Leanna Ewart,u337173,u331316
+1846,u322395,died
+1846,u326250,died
+1846,u340787,died
+1846,u342452,died
+1846,u342756,died
+1846,u342962,died
+1847,u343681,born,Retha Ewart,u337173,u331316
+1847,u343685,born,Ricky Ackerman,u335553,u330083
+1847,u343689,born,Clint Mills,u337382,u333512
+1847,u343739,born,Travis Ackerman,u339399,u328778
+1847,u343780,born,Cletus Corey,---,---
+1847,u343824,born,Travis Seaver-Corey,u335196,u338184
+1847,u343846,born,Gerrard Noel-Ewart,u339430,u331027
+1847,u343893,born,Eliot Ackerman-Fay,u339973,u338183
+1847,u343896,born,Teagan Porcher,---,---
+1847,u343908,born,Judd Seaver-Corey,u337172,u338225
+1847,u324867,died
+1847,u326808,died
+1848,u343921,born,Carmen Noel-Ewart,u339430,u331027
+1848,u343922,born,Cali Ackerman,u335553,u330083
+1848,u343923,born,Dillan Mills,u337382,u333512
+1848,u343925,born,Forest Ewart,u337173,u331316
+1848,u343933,born,Meriel Seaver-Corey,u335196,u338184
+1848,u343950,born,Desirae Ackerman-Fay,u339973,u338183
+1848,u343969,born,Travis Seaver-Corey,u337172,u338225
+1848,u324337,died
+1848,u342484,died
+1848,u342828,died
+1848,u343188,died
+1848,u343444,died
+1848,u343464,died
+1849,u344138,born,Merlyn Ewart,u337928,u330988
+1849,u344141,born,Leanna Ackerman-Fay,u339973,u338183
+1849,u344143,born,Keira Seaver-Corey,u337172,u338225
+1849,u344145,born,Marlon Ackerman,u335553,u330083
+1849,u344151,born,Dannie Ewart,u337173,u331316
+1849,u344152,born,Tranter Mills,u337382,u333512
+1849,u344155,born,Jenny Noel-Ewart,u339430,u331027
+1849,u344156,born,Merlyn Seaver-Corey,u335196,u338184
+1849,u340784,died
+1849,u342038,died
+1849,u343969,died
+1850,u344351,born,Genie Ewart,u337928,u330988
+1850,u344352,born,Orville Ackerman,u335553,u330083
+1850,u344362,born,Lynsay Ewart,u337173,u331316
+1850,u344367,born,Lynsay Mills,u337382,u333512
+1850,u344372,born,Gregg Seaver-Corey,u337172,u338225
+1850,u344375,born,Genie Ackerman-Fay,u339973,u338183
+1850,u344404,born,Bethel Wright,u339430,u331027
+1850,u344414,born,Margo Walker,---,---
+1850,u344480,born,Teagan Porcher,---,---
+1850,u342246,died
+1850,u343322,died
+1850,u343681,died
+1850,u343689,died
+1850,u343923,died
+1850,u344138,died
+1851,u344550,born,Eldon Ewart,u337928,u330988
+1851,u344552,born,Hepsie Seaver-Corey,u337172,u338225
+1851,u344555,born,Teagan Noel-Ewart,u339430,u331027
+1851,u344557,born,Forest Ackerman-Fay,u339973,u338183
+1851,u344559,born,Eldon Ackerman,u335553,u330083
+1851,u344563,born,Ricky Ewart,u337173,u331316
+1851,u344596,born,Dannie Mills,u337382,u333512
+1851,u344618,born,Meriel Seaver-Corey,u337627,u338427
+1851,u328587,died
+1851,u343739,died
+1851,u343780,died
+1851,u343950,died
+1851,u344404,died
+1851,u344414,died
+1852,u344737,born,Caelan Ewart,u337173,u331316
+1852,u344738,born,Ellington Seaver-Corey,u337627,u338427
+1852,u344745,born,Merit Mills,u337382,u333512
+1852,u344748,born,Orville Seaver-Corey,u337172,u338225
+1852,u344779,born,Candyce Fear,u337928,u330988
+1852,u344781,born,Stacie Noel-Ewart,u339430,u331027
+1852,u344858,born,Sullivan Woodrow,u340153,u337109
+1852,u344883,born,Genie Ackerman,u338440,u335197
+1852,u344943,born,Chloë Corey,u338193,u336237
+1852,u322347,died
+1852,u322871,died
+1852,u323793,died
+1852,u343023,died
+1852,u343481,died
+1852,u343896,died
+1852,u343925,died
+1852,u344152,died
+1852,u344480,died
+1852,u344552,died
+1853,u344945,born,Joselyn Noel-Ewart,u339430,u331027
+1853,u344946,born,Tranter Paternoster,u337173,u331316
+1853,u344947,born,Eldon Mills,u337382,u333512
+1853,u344948,born,Kassandra Woodrow,u340153,u337109
+1853,u344957,born,Juniper Corey,u338193,u336237
+1853,u344964,born,Desirae Ackerman,u338440,u335197
+1853,u344975,born,Dannie Ewart,u337928,u330988
+1853,u344976,born,Orville Seaver-Corey,u337172,u338225
+1853,u344989,born,Sonia Seaver-Corey,u337627,u338427
+1853,u343893,died
+1853,u343921,died
+1853,u344151,died
+1853,u344351,died
+1853,u344352,died
+1853,u344372,died
+1853,u344375,died
+1853,u344555,died
+1854,u345206,born,Joss Corey,u338193,u336237
+1854,u345207,born,Gwenda Seaver-Corey,u337627,u338427
+1854,u345209,born,Beckham Woodrow,u340153,u337109
+1854,u345216,born,Jamison Ogden,u337382,u333512
+1854,u345218,born,Lacey Noel-Ewart,u339430,u331027
+1854,u345221,born,Clint Ackerman,u336492,u338167
+1854,u345229,born,Trey Ackerman,u338440,u335197
+1854,u345231,born,Maurine Ewart,u337928,u330988
+1854,u345241,born,Michael Ewart,u337173,u331316
+1854,u345274,born,Alexandrina Seaver-Corey,u337172,u338225
+1854,u324042,died
+1854,u325936,died
+1854,u329594,died
+1854,u343214,died
+1854,u343685,died
+1854,u344145,died
+1854,u344779,died
+1855,u345416,born,Brannon Mills,u337382,u333512
+1855,u345417,born,Desirae Ackerman,u336492,u338167
+1855,u345418,born,Flanagan Woodrow,u340153,u337109
+1855,u345422,born,Tranter Corey,u338193,u336237
+1855,u345427,born,Marlon Seaver-Corey,u337172,u338225
+1855,u345429,born,Debby Ackerman,u338440,u335197
+1855,u345437,born,Allyn Ewart,u337928,u330988
+1855,u345441,born,Silver Ewart,u337173,u331316
+1855,u345458,born,Grady Seaver-Corey,u337627,u338427
+1855,u345460,born,Bethel Noel-Ewart,u339430,u331027
+1855,u345525,born,Joselyn Godfrey,---,---
+1855,u344156,died
+1855,u344557,died
+1855,u344745,died
+1855,u344945,died
+1855,u344946,died
+1855,u344975,died
+1855,u345209,died
+1856,u345618,born,Tawnee Mills,u337382,u333512
+1856,u345619,born,Crew Ewart,u337173,u331316
+1856,u345621,born,Shannon Woodrow,u340153,u337109
+1856,u345626,born,Odell Corey,u338193,u336237
+1856,u345628,born,Bud Ewart,u337928,u330988
+1856,u345630,born,Jenny Seaver-Corey,u337627,u338427
+1856,u345631,born,Brannon Noel-Ewart,u339430,u331027
+1856,u345651,born,Beckham Ackerman,u338440,u335197
+1856,u345657,born,Lacey Seaver-Corey,u337172,u338225
+1856,u325426,died
+1856,u327869,died
+1856,u343449,died
+1856,u344367,died
+1856,u344550,died
+1856,u344943,died
+1856,u344957,died
+1856,u344964,died
+1856,u344976,died
+1856,u345525,died
+1857,u345818,born,Retha Corwin,u338193,u336237
+1857,u345819,born,Margo Seaver-Corey,u337172,u338225
+1857,u345820,born,Elisa Ewart,u337928,u330988
+1857,u345826,born,Steven Cornett,u339399,u337916
+1857,u345837,born,Drake Mills,u337382,u333512
+1857,u345839,born,Gwenda Woodrow,u340153,u337109
+1857,u345843,born,Lorrie Ackerman,u338440,u335197
+1857,u345855,born,Gypsy Noel-Ewart,u339430,u331027
+1857,u345866,born,Diggory Ewart,u337173,u331316
+1857,u345880,born,London Seaver-Corey,u337627,u338427
+1857,u345897,born,Retha Corwin,---,---
+1857,u343908,died
+1857,u344559,died
+1857,u344883,died
+1857,u345207,died
+1857,u345418,died
+1857,u345441,died
+1857,u345458,died
+1858,u345993,born,Tisha Ackerman,u338440,u335197
+1858,u345994,born,Ellington Yates,u339399,u337916
+1858,u345996,born,Chloë Ewart,u337173,u331316
+1858,u345997,born,Bud Seaver-Corey,u337627,u338427
+1858,u346005,born,Diggory Woodrow,u340153,u337109
+1858,u346014,born,Sondra Mills,u337382,u333512
+1858,u346018,born,Meriel Seaver-Corey,u337172,u338225
+1858,u346050,born,Ricky Huxtable,u338193,u336237
+1858,u346131,born,Odell Corey,u341617,u335017
+1858,u326175,died
+1858,u329599,died
+1858,u344948,died
+1858,u345218,died
+1858,u345229,died
+1858,u345437,died
+1858,u345460,died
+1858,u345618,died
+1859,u346167,born,Eliot Corey,u341617,u335017
+1859,u346168,born,Ricky Corey,u338193,u336237
+1859,u346169,born,Steven Mills,u337382,u333512
+1859,u346172,born,Lee Seaver-Corey,u337627,u338427
+1859,u346177,born,London Ackerman,u338440,u335197
+1859,u346186,born,London Woodrow,u340153,u337109
+1859,u346218,born,Elisa Cornett,u339399,u337916
+1859,u325199,died
+1859,u326377,died
+1859,u327204,died
+1859,u328265,died
+1859,u344143,died
+1859,u344155,died
+1859,u344563,died
+1859,u345221,died
+1859,u345231,died
+1859,u345241,died
+1859,u345416,died
+1859,u345621,died
+1859,u345626,died
+1859,u345820,died
+1859,u346018,died
+1860,u346355,born,Sonia Seaver-Corey,u337627,u338427
+1860,u346358,born,Keira Corey-Mills,u339399,u337916
+1860,u346362,born,Malone Woodrow,u340153,u337109
+1860,u346363,born,Ibbie Corey,u341617,u335017
+1860,u346368,born,Dannie Corey,u338193,u336237
+1860,u346377,born,Sondra Ackerman,u338440,u335197
+1860,u346423,born,Caelan Langdon,---,---
+1860,u346481,born,Leanna Derrickson,---,---
+1860,u346554,born,Michael Corey,---,---
+1860,u332485,died
+1860,u344596,died
+1860,u344989,died
+1860,u345657,died
+1860,u345843,died
+1860,u345997,died
+1860,u346168,died
+1861,u346563,born,Forest Seaver-Corey,u338440,u338184
+1861,u346567,born,Shannon Corey,u341617,u335017
+1861,u346569,born,Marvin Sempers,u340153,u337109
+1861,u346578,born,Desirae Cornett,u339399,u337916
+1861,u346592,born,Braiden Corey,u338193,u336237
+1861,u324937,died
+1861,u325435,died
+1861,u326390,died
+1861,u330414,died
+1861,u345422,died
+1861,u345628,died
+1861,u345996,died
+1861,u346005,died
+1861,u346050,died
+1861,u346423,died
+1861,u346554,died
+1862,u346770,born,Harold Cason,u340153,u337109
+1862,u346774,born,Eldon Corey,u338193,u336237
+1862,u346775,born,Joe Seaver-Corey,u338440,u338184
+1862,u346803,born,Allyn Corey,u341617,u335017
+1862,u346841,born,Sullivan Fitzroy,u339399,u337916
+1862,u327803,died
+1862,u333512,died
+1862,u345818,died
+1862,u345837,died
+1862,u346355,died
+1862,u346358,died
+1862,u346368,died
+1862,u346592,died
+1863,u346975,born,Eliot Corey,u341617,u335017
+1863,u346976,born,Gwenda Cornett,u339399,u337916
+1863,u346982,born,Michael Seaver-Corey,u338440,u338184
+1863,u346986,born,Stacie Woodrow,u340153,u337109
+1863,u344362,died
+1863,u344858,died
+1863,u346167,died
+1863,u346169,died
+1863,u346377,died
+1863,u346563,died
+1863,u346578,died
+1863,u346841,died
+1864,u347148,born,Malone Woodrow,u340153,u337109
+1864,u347149,born,Teagan Cornett,u339399,u337916
+1864,u347165,born,Darryl Corey-Ewart,u341617,u335017
+1864,u326217,died
+1864,u328778,died
+1864,u345216,died
+1864,u345897,died
+1864,u345993,died
+1864,u346177,died
+1864,u346775,died
+1864,u346803,died
+1864,u346982,died
+1864,u346986,died
+1865,u347318,born,Teagan Corey,u341617,u335017
+1865,u347333,born,Stacie Woodrow,u340153,u337109
+1865,u347360,born,Brooklyn Cornett,u339399,u337916
+1865,u327367,died
+1865,u345630,died
+1865,u346567,died
+1865,u346569,died
+1866,u347552,born,Beckham Corey,u341617,u335017
+1866,u347571,born,Merlyn Cornett,u339399,u337916
+1866,u347576,born,Jamison Woodrow,u340153,u337109
+1866,u347741,born,Joselyn Mills,u342492,u334234
+1866,u325483,died
+1866,u345819,died
+1866,u345866,died
+1866,u346218,died
+1866,u346362,died
+1866,u347149,died
+1866,u347360,died
+1867,u347758,born,Clifton Mills,u342492,u334234
+1867,u347772,born,Shannon Cornett,u339399,u337916
+1867,u347855,born,Merlyn Ewart,u343922,u339175
+1867,u330083,died
+1867,u346131,died
+1867,u347552,died
+1868,u347947,born,Merit Ewart,u343922,u339175
+1868,u348124,born,Carmen Ackerman,u341617,u335197
+1868,u346976,died
+1868,u347165,died
+1868,u347741,died
+1869,u348157,born,Sondra Ackerman,u341617,u335197
+1869,u348158,born,Maurine Ewart,u343922,u339175
+1869,u348180,born,Lorrie Seaver-Corey,u342432,u344748
+1869,u348190,born,Ella Seaver-Corey,u344141,u344738
+1869,u345880,died
+1869,u347758,died
+1869,u347947,died
+1870,u348418,born,Leanna Ackerman,u341617,u335197
+1870,u348428,born,Chasity Seaver-Corey,u344141,u344738
+1870,u348430,born,Braiden Starr,u343922,u339175
+1870,u348438,born,Clifton Seaver-Corey,u342432,u344748
+1870,u348440,born,Kathlyn Woodrow,u344781,u337109
+1870,u328830,died
+1870,u345206,died
+1870,u347576,died
+1870,u347855,died
+1871,u348707,born,Darren Seaver-Corey,u344141,u344738
+1871,u348717,born,Margo Woodrow,u344781,u337109
+1871,u348728,born,Kayden Ackerman,u341617,u335197
+1871,u348730,born,Dannie Seaver-Corey,u342432,u344748
+1871,u348743,born,Tamika Ewart,u343922,u339175
+1871,u348766,born,Hepsie Ewart,u341153,u344737
+1871,u326804,died
+1871,u347148,died
+1872,u349001,born,Jenny Seaver-Corey,u344141,u344738
+1872,u349004,born,Tawnee Ewart,u341153,u344737
+1872,u349006,born,Leanna Seaver-Corey,u342432,u344748
+1872,u349012,born,Carrol Ewart,u343922,u339175
+1872,u349016,born,Crew Noel-Woodrow,u344781,u337109
+1872,u349029,born,Malone Ackerman,u341617,u335197
+1872,u327905,died
+1872,u346770,died
+1873,u349261,born,Desirae Ackerman,u341617,u335197
+1873,u349262,born,Kayden Seaver-Corey,u342432,u344748
+1873,u349268,born,Margo Woodrow,u344781,u337109
+1873,u349270,born,Kathlyn Seaver-Corey,u344141,u344738
+1873,u349275,born,Genie Ewart,u341153,u344737
+1873,u349285,born,Chloë Ackerman,u345274,u345651
+1873,u328810,died
+1873,u346363,died
+1873,u347772,died
+1873,u348124,died
+1873,u348418,died
+1873,u348428,died
+1874,u349462,born,Bethel Ackerman,u341617,u335197
+1874,u349465,born,Crew Ackerman,u345274,u345651
+1874,u349471,born,Clint Corey,u342432,u344748
+1874,u349475,born,Elisa Seaver-Corey,u344141,u344738
+1874,u349486,born,Ian Ewart,u341153,u344737
+1874,u349492,born,Carrol Ackerman,u341260,u339155
+1874,u349512,born,Dillan Woodrow,u344781,u337109
+1874,u349551,born,Brannon Noel-Ewart,u345417,u345631
+1874,u330988,died
+1874,u348158,died
+1874,u348440,died
+1874,u348730,died
+1875,u349691,born,Florrie Ewart,u341153,u344737
+1875,u349693,born,Cletus Seaver-Corey,u342432,u344748
+1875,u349701,born,Merlyn Ackerman,u345274,u345651
+1875,u349703,born,Cali Ackerman,u341260,u339155
+1875,u349712,born,Caelan Woodrow,u344781,u337109
+1875,u349725,born,Shannon Seaver-Corey,u344141,u344738
+1875,u349727,born,Desirae Noel-Ackerman,u345417,u345631
+1875,u349733,born,Merlyn Yates,u342492,u345994
+1875,u349785,born,Joselyn Britton,u345429,u341137
+1875,u349883,born,Hepsie Simen,---,---
+1875,u331027,died
+1875,u347571,died
+1875,u348180,died
+1875,u348190,died
+1875,u348430,died
+1875,u349261,died
+1875,u349275,died
+1876,u349899,born,Sienna Seaver-Corey,u344141,u344738
+1876,u349911,born,Candyce Ackerman,u345274,u345651
+1876,u349912,born,Debby Woodrow,u344781,u337109
+1876,u349915,born,Tamika Britton,u345429,u341137
+1876,u349926,born,Lee Seaver-Corey,u342432,u344748
+1876,u349932,born,Ibbie Yates,u342492,u345994
+1876,u349985,born,Lacey Noel-Ewart,u345417,u345631
+1876,u332911,died
+1876,u348438,died
+1876,u348717,died
+1876,u348728,died
+1876,u349029,died
+1876,u349492,died
+1876,u349693,died
+1877,u350120,born,Debby Britton,u345429,u341137
+1877,u350127,born,Tahnee Yates,u342492,u345994
+1877,u350132,born,Desirae Seaver-Corey,u342432,u344748
+1877,u350139,born,Brannon Woodrow,u344781,u337109
+1877,u350143,born,Shayne Noel-Ewart,u345417,u345631
+1877,u350161,born,Kayden Ackerman,u345274,u345651
+1877,u331825,died
+1877,u349262,died
+1877,u349512,died
+1877,u349883,died
+1877,u349985,died
+1878,u350352,born,Orville Britton,u345429,u341137
+1878,u350353,born,Juniper Mills,u345855,u344947
+1878,u350368,born,Margo Woodrow,u344781,u337109
+1878,u350377,born,Eliot Seaver-Corey,u342432,u344748
+1878,u350379,born,Judd Yates-Ackerman,u342492,u345994
+1878,u350407,born,Leanna Ackerman,u345274,u345651
+1878,u350444,born,Keira Noel-Ewart,u345417,u345631
+1878,u350488,born,Hepsie Noel-Ewart,u343922,u343846
+1878,u337928,died
+1878,u349285,died
+1878,u349727,died
+1878,u349932,died
+1879,u350616,born,Genie Noel-Ewart,u345417,u345631
+1879,u350617,born,London Woodrow,u344781,u337109
+1879,u350621,born,Gypsy Noel-Ewart,u343922,u343846
+1879,u350630,born,Trey Britton,u345429,u341137
+1879,u350633,born,Sonia Seaver-Corey,u342432,u344748
+1879,u350652,born,Bethel Yates,u342492,u345994
+1879,u350660,born,Lee Ackerman,u345274,u345651
+1879,u350746,born,Candyce Corey,u345839,u346774
+1879,u328595,died
+1879,u331548,died
+1879,u332163,died
+1879,u336977,died
+1879,u348743,died
+1879,u349703,died
+1879,u349733,died
+1879,u350132,died
+1880,u350876,born,Tawnee Britton,u345429,u341137
+1880,u350878,born,Gregg Yates,u342492,u345994
+1880,u350882,born,Sondra Corey,u345839,u346774
+1880,u350883,born,Hepsie Seaver-Corey,u342432,u344748
+1880,u350885,born,Ian Woodrow,u344781,u337109
+1880,u350901,born,Gordon Noel-Ewart,u345417,u345631
+1880,u350914,born,Joss Odell,u343922,u343846
+1880,u350955,born,Gwenda Ackerman,u345274,u345651
+1880,u350972,born,Tahnee Gill,u344618,u344947
+1880,u346774,died
+1880,u349270,died
+1880,u349462,died
+1880,u350127,died
+1880,u350161,died
+1881,u351091,born,Shannon Mills,u344618,u344947
+1881,u351097,born,Danita Noel-Ewart,u343922,u343846
+1881,u351100,born,Eliana Ackerman,u345274,u345651
+1881,u351105,born,Lorrie Yates,u342492,u345994
+1881,u351111,born,Silver Noel-Ewart,u345417,u345631
+1881,u351152,born,Meriel Woodrow,u344781,u337109
+1881,u351158,born,Kathlyn Britton,u345429,u341137
+1881,u351273,born,Silver Kimberly,u345839,u340815
+1881,u347318,died
+1881,u349899,died
+1881,u350139,died
+1881,u350352,died
+1881,u350368,died
+1881,u350633,died
+1881,u350901,died
+1882,u351306,born,Tranter Ackerman,u345274,u345651
+1882,u351323,born,Malone Noel-Ewart,u345417,u345631
+1882,u351325,born,Tisha Britton,u345429,u341137
+1882,u351326,born,Gordon Noel-Ewart,u343922,u343846
+1882,u351330,born,Clint Woodrow,u344781,u337109
+1882,u351344,born,Meade Seaver-Corey,u344618,u344947
+1882,u351350,born,Lacey Kimberly,u345839,u340815
+1882,u351377,born,Lynsay Seaver-Corey,u344141,u345427
+1882,u333752,died
+1882,u349001,died
+1882,u349012,died
+1882,u349016,died
+1882,u349691,died
+1882,u349926,died
+1882,u350120,died
+1882,u350746,died
+1882,u350878,died
+1882,u350885,died
+1883,u351532,born,Gordon Noel-Ewart,u343922,u343846
+1883,u351534,born,Caelan Seaver-Corey,u344141,u345427
+1883,u351545,born,Jamison Britton,u345429,u341137
+1883,u351555,born,Kayden Mills,u344618,u344947
+1883,u351556,born,Michael Ackerman,u345274,u345651
+1883,u351580,born,Tahnee Noel-Ackerman,u345417,u345631
+1883,u351585,born,Sullivan Fitzroy,---,---
+1883,u351589,born,Madge Kimberly,u345839,u340815
+1883,u351744,born,Teagan Ackerman,u347333,u342946
+1883,u331316,died
+1883,u350616,died
+1883,u350660,died
+1883,u350882,died
+1883,u351344,died
+1884,u351753,born,Braiden Ackerman,u347333,u342946
+1884,u351754,born,Jenny Seaver-Corey,u344141,u345427
+1884,u351762,born,Candyce Noel-Ewart,u343922,u343846
+1884,u351765,born,Chasity Foster,u345417,u345631
+1884,u351767,born,Genie Ackerman,u345274,u345651
+1884,u351775,born,Cullen Kimberly,u345839,u340815
+1884,u351781,born,Sienna Britton,u345429,u341137
+1884,u351787,born,Cletus Mills,u344618,u344947
+1884,u351841,born,Darryl Devine,---,---
+1884,u351864,born,Odell Ackerman-Fay,u346014,u338183
+1884,u334234,died
+1884,u337627,died
+1884,u348766,died
+1884,u349912,died
+1884,u350876,died
+1884,u350972,died
+1884,u351273,died
+1884,u351306,died
+1884,u351323,died
+1884,u351350,died
+1884,u351545,died
+1884,u351555,died
+1885,u351966,born,Ian Noel-Ewart,u343922,u343846
+1885,u351967,born,Erin Kimberly,u345839,u340815
+1885,u351968,born,Louis Mills,u344618,u344947
+1885,u351969,born,Joss Ackerman,u347333,u342946
+1885,u351972,born,Meriel Ackerman-Fay,u346014,u338183
+1885,u351974,born,Tawnee Seaver-Corey,u344141,u345427
+1885,u351979,born,Lorrie Noel-Ewart,u345417,u345631
+1885,u351996,born,Eldon Ackerman,u345274,u345651
+1885,u335553,died
+1885,u350353,died
+1885,u350444,died
+1885,u351152,died
+1885,u351754,died
+1885,u351864,died
+1886,u352142,born,Tawnee Noel-Ewart,u345417,u345631
+1886,u352143,born,Trey Mills,u344618,u344947
+1886,u352150,born,Retha Seaver-Corey,u344141,u345427
+1886,u352153,born,Lynsay Kimberly,u345839,u340815
+1886,u352154,born,Leanna Ackerman-Fay,u346014,u338183
+1886,u352169,born,Dannie Ackerman,u345274,u345651
+1886,u352175,born,Merlyn Ackerman,u347333,u342946
+1886,u352199,born,Silver Noel-Ewart,u343922,u343846
+1886,u336095,died
+1886,u349004,died
+1886,u350407,died
+1886,u350630,died
+1886,u350883,died
+1886,u351325,died
+1886,u351589,died
+1886,u351744,died
+1886,u351753,died
+1886,u351967,died
+1887,u352311,born,Forest Ackerman,u347333,u342946
+1887,u352314,born,Eldon Noel-Ewart,u343922,u343846
+1887,u352316,born,Louis Kimberly,u345839,u340815
+1887,u352327,born,Ian Seaver-Corey,u344141,u345427
+1887,u352334,born,Ellington Noel-Ewart,u345417,u345631
+1887,u352340,born,Debby Mills,u344618,u344947
+1887,u352355,born,Eliana Ackerman,u345274,u345651
+1887,u352369,born,Crew Ackerman-Fay,u346014,u338183
+1887,u333244,died
+1887,u350379,died
+1887,u350914,died
+1887,u351100,died
+1887,u351111,died
+1887,u351580,died
+1887,u351585,died
+1887,u351841,died
+1887,u351969,died
+1888,u352487,born,Silver Mills,u344618,u344947
+1888,u352499,born,Danita Noel-Ewart,u345417,u345631
+1888,u352502,born,Genie Woodrow,u345839,u340815
+1888,u352505,born,Maurine Seaver-Corey,u344141,u345427
+1888,u352506,born,Trey Falconer,---,---
+1888,u352510,born,Gordon Ackerman,u345274,u345651
+1888,u352520,born,Carrol Ackerman,u347333,u342946
+1888,u352543,born,Shannon Seaver-Corey,u345429,u346172
+1888,u352617,born,Carmen Beverley,---,---
+1888,u335196,died
+1888,u351158,died
+1888,u351377,died
+1888,u351556,died
+1888,u351979,died
+1888,u352327,died
+1889,u352696,born,Meriel Ackerman,u347333,u342946
+1889,u352698,born,Flanagan Kimberly,u345839,u340815
+1889,u352704,born,Tawnee Ackerman,u345417,u345631
+1889,u352715,born,Diggory Mills,u344618,u344947
+1889,u352716,born,Flanagan Seaver-Corey,u345429,u346172
+1889,u352744,born,Grady Ackerman,u345274,u345651
+1889,u352799,born,Danita Atterberry,---,---
+1889,u352874,born,Brannon Landon,---,---
+1889,u352888,born,Sullivan Noel-Corey,u345855,u345427
+1889,u351330,died
+1889,u352143,died
+1889,u352316,died
+1889,u352369,died
+1890,u352900,born,Florrie Mills,u344618,u344947
+1890,u352903,born,Shayne Kimberly,u345839,u340815
+1890,u352906,born,Forest Seaver-Corey,u345429,u346172
+1890,u352914,born,Tranter Noel-Ackerman,u345417,u345631
+1890,u352916,born,Carrol Noel-Ewart,u345855,u345427
+1890,u352930,born,Louis Britton,u349268,u341137
+1890,u352933,born,Brannon Barret,u345274,u345651
+1890,u352979,born,Carran Braddock,---,---
+1890,u351097,died
+1890,u351767,died
+1890,u352150,died
+1890,u352199,died
+1890,u352715,died
+1891,u353090,born,Kolton Seaver-Corey,u345855,u345427
+1891,u353093,born,Leanna Noel-Ewart,u345417,u345631
+1891,u353101,born,Lacey Kimberly,u345839,u340815
+1891,u353129,born,Chloë Ackerman,u345274,u345651
+1891,u353153,born,Elisa Carlyle,u349268,u341137
+1891,u353167,born,Ellington Seaver-Corey,u345429,u346172
+1891,u336244,died
+1891,u337109,died
+1891,u351105,died
+1891,u351326,died
+1891,u351966,died
+1891,u351974,died
+1891,u352543,died
+1891,u352617,died
+1891,u352698,died
+1891,u352874,died
+1891,u352888,died
+1892,u353276,born,Chasity Noel-Ewart,u345417,u345631
+1892,u353278,born,Danita Seaver-Corey,u345855,u345427
+1892,u353280,born,Clifton Seaver-Corey,u345429,u346172
+1892,u353281,born,Carran Mills,u349725,u343203
+1892,u353282,born,Sondra Ackerman,u345274,u345651
+1892,u353295,born,Desirae Mathews,u349268,u341137
+1892,u353336,born,Elisa Kimberly,u345839,u340815
+1892,u352355,died
+1892,u352502,died
+1892,u352505,died
+1892,u352510,died
+1892,u352744,died
+1892,u352916,died
+1892,u352930,died
+1892,u352933,died
+1893,u353479,born,Shayne Ackerman,u345274,u345651
+1893,u353481,born,Leanna Seaver-Corey,u345429,u346172
+1893,u353486,born,Stacie Seaver-Corey,u345855,u345427
+1893,u353516,born,Sullivan Britton,u349268,u341137
+1893,u353518,born,Ricky Mills,u349725,u343203
+1893,u353537,born,Danita Noel-Ackerman,u345417,u345631
+1893,u353564,born,London Peterson,u349915,u346975
+1893,u353611,born,Stacie Yates,u345839,u345994
+1893,u352340,died
+1893,u352487,died
+1893,u352499,died
+1893,u353101,died
+1893,u353167,died
+1894,u353694,born,Merit Yates,u345839,u345994
+1894,u353701,born,Juniper Corey,u349915,u346975
+1894,u353719,born,Dannie Seaver-Corey,u345855,u345427
+1894,u353723,born,Clifton Britton,u349268,u341137
+1894,u353724,born,Debby Boon,u345429,u346172
+1894,u353735,born,Marvin Noel-Ackerman,u345417,u345631
+1894,u353887,born,Stacie Ackerman,u346481,u349701
+1894,u351534,died
+1894,u352153,died
+1894,u352716,died
+1894,u352900,died
+1894,u353481,died
+1894,u353516,died
+1894,u353518,died
+1895,u353926,born,Kathlyn Gabrielson,u345839,u345994
+1895,u353928,born,Roscoe Corey,u349915,u346975
+1895,u353929,born,Dillan Ackerman,u346481,u349701
+1895,u353934,born,Margo Britton,u349268,u341137
+1895,u353941,born,Tahnee Seaver-Corey,u345855,u345427
+1895,u338058,died
+1895,u352334,died
+1895,u352903,died
+1895,u353280,died
+1895,u353486,died
+1896,u354127,born,Kathlyn Yates,u345839,u345994
+1896,u354128,born,Carmen Britton,u349915,u346975
+1896,u354139,born,Clifton Seaver-Corey,u345855,u345427
+1896,u354146,born,Joselyn Ackerman,u346481,u349701
+1896,u354163,born,Florrie Britton,u349268,u341137
+1896,u354209,born,Marvin Ackerman,u350621,u349465
+1896,u335017,died
+1896,u352169,died
+1896,u352696,died
+1896,u352704,died
+1896,u352906,died
+1896,u353336,died
+1896,u353564,died
+1896,u353719,died
+1896,u353735,died
+1897,u354406,born,Retha Britton,u349268,u341137
+1897,u354419,born,Drake Ackerman,u350621,u349465
+1897,u354427,born,Marlon Langley-Langley,---,---
+1897,u354431,born,Forest Ackerman,u346481,u349701
+1897,u354452,born,Tamika Corey,u349915,u346975
+1897,u336237,died
+1897,u337173,died
+1897,u339155,died
+1897,u350377,died
+1897,u353282,died
+1897,u353934,died
+1898,u354660,born,Juniper Law,u349915,u346975
+1898,u354667,born,Tamika Britton,u349268,u341137
+1898,u354689,born,Erin Ackerman,u350621,u349465
+1898,u354700,born,Carrol Ackerman,u346481,u349701
+1898,u336492,died
+1898,u353093,died
+1898,u353701,died
+1898,u353724,died
+1898,u354146,died
+1898,u354419,died
+1899,u354891,born,Sienna Ackerman,u346481,u349701
+1899,u354893,born,Gordon Corey,u349915,u346975
+1899,u354908,born,Lorrie Ackerman,u350621,u349465
+1899,u354961,born,Ariel Britton,u349268,u341137
+1899,u338184,died
+1899,u352799,died
+1899,u353479,died
+1899,u353926,died
+1899,u354209,died
+1899,u354452,died
+1900,u355149,born,Shayne Ackerman,u350621,u349465
+1900,u355169,born,Carran Corey-Britton,u349915,u346975
+1900,u353281,died
+1900,u353295,died
+1900,u353611,died
+1900,u354406,died
+1901,u355384,born,Erin Corey,u349915,u346975
+1901,u355389,born,Maurine Seaver-Corey,u351765,u343824
+1901,u355392,born,Beckham Ackerman,u350621,u349465
+1901,u355432,born,Alexandrina Woodrow,u347333,u351532
+1901,u355476,born,Margo Kimberly,u350488,u351775
+1901,u335197,died
+1901,u337172,died
+1901,u352314,died
+1901,u353887,died
+1901,u353929,died
+1901,u354700,died
+1901,u354893,died
+1902,u355609,born,Lorrie Kimberly,u350488,u351775
+1902,u355628,born,Gwenda Corey,u349915,u346975
+1902,u355632,born,Florrie Seaver-Corey,u351765,u343824
+1902,u355658,born,Jamison Ackerman,u350621,u349465
+1902,u355685,born,Margo Noel-Ewart,u347333,u351532
+1902,u355746,born,Debby Ewart,u351091,u344737
+1902,u335224,died
+1902,u353941,died
+1902,u354431,died
+1902,u354660,died
+1902,u354908,died
+1903,u355837,born,Michael Noel-Ackerman,u350621,u349465
+1903,u355838,born,Clifton Corey,u349915,u346975
+1903,u355840,born,Retha Seaver-Corey,u351765,u343824
+1903,u355841,born,Bud Noel-Ewart,u347333,u351532
+1903,u355864,born,Merlyn Ewart,u351091,u344737
+1903,u355930,born,Ian Ewart,u350955,u349486
+1903,u356037,born,Genie Woodrow,u349911,u349712
+1903,u339399,died
+1903,u355392,died
+1903,u355658,died
+1904,u356058,born,Darryl Ewart,u350955,u349486
+1904,u356063,born,Chasity Noel-Ewart,u347333,u351532
+1904,u356064,born,Chasity Ackerman,u350621,u349465
+1904,u356066,born,Caelan Woodrow,u349911,u349712
+1904,u356077,born,Cullen Ewart,u351091,u344737
+1904,u356084,born,Eliana Ellis,u349915,u346975
+1904,u356103,born,Tawnee Bronson,---,---
+1904,u356113,born,Ricky Seaver-Corey,u351765,u343824
+1904,u356253,born,Silver Ackerman,u349268,u342946
+1904,u338183,died
+1904,u339430,died
+1904,u355609,died
+1904,u355930,died
+1905,u356282,born,Travis Woodrow,u349911,u349712
+1905,u356289,born,Clifton Foster,u351765,u343824
+1905,u356292,born,Margo Ewart,u351091,u344737
+1905,u356307,born,Carran Corey,u349915,u346975
+1905,u356308,born,Cali Ackerman,u349268,u342946
+1905,u356313,born,Tamika Ackerman,u350621,u349465
+1905,u356315,born,Chloë Britton,---,---
+1905,u356317,born,Carmen Ewart,u350955,u349486
+1905,u356338,born,Trey Falconer,---,---
+1905,u354667,died
+1905,u354689,died
+1905,u355149,died
+1905,u355389,died
+1905,u355837,died
+1905,u355841,died
+1905,u356103,died
+1906,u356504,born,Carran Woodrow,u349911,u349712
+1906,u356505,born,Ariel Corey,u349915,u346975
+1906,u356506,born,Crew Rigby,u349268,u342946
+1906,u356508,born,Keira Ackerman,u350621,u349465
+1906,u356521,born,Joselyn Seaver-Corey,u351765,u343824
+1906,u356557,born,Bud Ewart,u350955,u349486
+1906,u356600,born,Judd Ewart,u351091,u344737
+1906,u336484,died
+1906,u339175,died
+1906,u355169,died
+1906,u356037,died
+1906,u356282,died
+1906,u356307,died
+1907,u356709,born,Meriel Corey,u349915,u346975
+1907,u356710,born,Sullivan Seaver-Corey,u351765,u343824
+1907,u356719,born,Steven Ackerman,u350621,u349465
+1907,u356721,born,Michael Ewart,u350955,u349486
+1907,u356727,born,Erin Ewart-Mills,u351091,u344737
+1907,u356729,born,Danita Woodrow,u349725,u350617
+1907,u356747,born,Sienna Woodrow,u349911,u349712
+1907,u356766,born,Eldon Ackerman,u349268,u342946
+1907,u356854,born,Elisa Seaver-Corey,u349006,u346172
+1907,u356864,born,Gregg Ewart,u351972,u345619
+1907,u355840,died
+1907,u356077,died
+1907,u356289,died
+1908,u356957,born,Teagan Ackerman,u350621,u349465
+1908,u356958,born,Merlyn Seaver-Corey,u349006,u346172
+1908,u356959,born,Carmen Ackerman,u349268,u342946
+1908,u356962,born,Crew Woodrow,u349911,u349712
+1908,u356978,born,Braiden Starr,u349915,u346975
+1908,u356982,born,Carrol Abney,u351091,u344737
+1908,u356992,born,Ella Ewart,u350955,u349486
+1908,u357005,born,Darren Seaver-Corey,u351765,u343824
+1908,u357009,born,Clint Ewart,u351972,u345619
+1908,u357103,born,Hepsie Woodrow,u349725,u350617
+1908,u357126,born,Roscoe Braddock,u351762,u352979
+1908,u338447,died
+1908,u340960,died
+1908,u355628,died
+1908,u355838,died
+1908,u356058,died
+1908,u356066,died
+1908,u356709,died
+1908,u356729,died
+1908,u356854,died
+1909,u357195,born,Silver Woodrow,u349725,u350617
+1909,u357201,born,Kathlyn Seaver-Corey,u351765,u343824
+1909,u357203,born,Drake Corey,u349915,u346975
+1909,u357206,born,Meade Ewart,u351091,u344737
+1909,u357209,born,Darren Seaver-Corey,u349006,u346172
+1909,u357210,born,Judd Ewart,u351972,u345619
+1909,u357211,born,Cullen Ackerman,u350621,u349465
+1909,u357216,born,Sonia Bond,u350955,u349486
+1909,u357224,born,Teagan Woodrow,u349911,u349712
+1909,u357227,born,Ian Crewe,---,---
+1909,u357234,born,Chloë Braddock,u351762,u352979
+1909,u356063,died
+1909,u356253,died
+1909,u356292,died
+1909,u356315,died
+1909,u356864,died
+1910,u357385,born,Sondra Corey,u349915,u346975
+1910,u357388,born,Shayne Braddock,u351762,u352979
+1910,u357391,born,Kassandra Woodrow-Corey,u349725,u350617
+1910,u357392,born,Chloë Ewart,u351091,u344737
+1910,u357395,born,Merlyn Adams,u350955,u349486
+1910,u357400,born,Tahnee Foster,u351765,u343824
+1910,u357416,born,Bud Woodrow,u349911,u349712
+1910,u357418,born,Shannon Seaver-Corey,u349006,u346172
+1910,u357428,born,Chasity Ewart,u351972,u345619
+1910,u357454,born,Erin Ackerman,u350621,u349465
+1910,u357463,born,Gypsy Sexton,---,---
+1910,u357548,born,Ella Seaver-Corey,u352154,u353090
+1910,u338167,died
+1910,u338193,died
+1910,u338440,died
+1910,u355746,died
+1910,u356064,died
+1910,u356958,died
+1911,u357585,born,Ellington Ewart,u351091,u344737
+1911,u357586,born,Diggory Ewart,u351972,u345619
+1911,u357587,born,Michael Corey,u349915,u346975
+1911,u357590,born,Bethel Ackerman,u350621,u349465
+1911,u357592,born,Tamika Seaver-Corey,u349006,u346172
+1911,u357599,born,Teagan Seaver-Corey,u352154,u353090
+1911,u357603,born,Caelan Seaver-Corey,u351765,u343824
+1911,u357616,born,Keira Braddock,u351762,u352979
+1911,u357617,born,Marvin Woodrow-Corey,u349725,u350617
+1911,u357653,born,Tisha Woodrow,u349911,u349712
+1911,u338169,died
+1911,u340153,died
+1911,u344141,died
+1911,u356505,died
+1911,u356710,died
+1911,u356747,died
+1911,u356957,died
+1911,u356978,died
+1911,u357206,died
+1911,u357216,died
+1911,u357388,died
+1911,u357392,died
+1912,u357781,born,Brannon Ewart,u351091,u344737
+1912,u357784,born,Eliana Noel-Ewart,u350621,u349465
+1912,u357788,born,Carrol Corey,u349915,u346975
+1912,u357796,born,Brannon Seaver-Corey,u352154,u353090
+1912,u357808,born,Merit Ewart,u351972,u345619
+1912,u357816,born,Hepsie Woodrow,u349911,u349712
+1912,u357824,born,Joselyn Seaver-Corey,u353153,u344748
+1912,u357825,born,Shannon Woodrow,u349725,u350617
+1912,u357839,born,Chasity Braddock,u351762,u352979
+1912,u337382,died
+1912,u338225,died
+1912,u338427,died
+1912,u344738,died
+1912,u356557,died
+1912,u357009,died
+1912,u357195,died
+1912,u357463,died
+1912,u357548,died
+1912,u357599,died
+1912,u357603,died
+1913,u357970,born,Tisha Corey,u349915,u346975
+1913,u357977,born,Eliana Seaver-Corey,u352154,u353090
+1913,u357979,born,Shannon Woodrow,u349725,u350617
+1913,u357980,born,Crew Ewart,u351091,u344737
+1913,u357982,born,Ibbie Woodrow,u349911,u349712
+1913,u357985,born,Cali Seaver-Corey,u353153,u344748
+1913,u357986,born,Cullen Ewart,u351972,u345619
+1913,u357987,born,Tisha Braddock,u351762,u352979
+1913,u358000,born,Darian Mills,u354163,u351787
+1913,u358026,born,Brannon Ackerman,u350621,u349465
+1913,u358065,born,Joss Odell,---,---
+1913,u358105,born,Joselyn Yates,u353278,u345994
+1913,u356313,died
+1913,u356317,died
+1913,u357103,died
+1913,u357126,died
+1913,u357224,died
+1913,u357395,died
+1913,u357616,died
+1914,u358176,born,Retha Ewart,u351091,u344737
+1914,u358179,born,Kassandra Langley-Langley,u354128,u354427
+1914,u358183,born,Sullivan Mills,u354163,u351787
+1914,u358190,born,Gregg Seaver-Corey,u353153,u344748
+1914,u358192,born,Joselyn Ackerman,u350621,u349465
+1914,u358195,born,Stacie Woodrow,u349725,u350617
+1914,u358210,born,Kayden Ewart,u351972,u345619
+1914,u358228,born,Tahnee Braddock,u351762,u352979
+1914,u358233,born,Meade Woodrow,u349911,u349712
+1914,u358238,born,Brannon Yates,u353278,u345994
+1914,u358327,born,Marlon Kimberly,u350488,u351775
+1914,u358346,born,Darren Corey,u349785,u346975
+1914,u340815,died
+1914,u357201,died
+1914,u357210,died
+1914,u357234,died
+1914,u357385,died
+1914,u357590,died
+1914,u357653,died
+1914,u357816,died
+1914,u357970,died
+1914,u358065,died
+1914,u358105,died
+1915,u358377,born,Jenny Mills,u354163,u351787
+1915,u358380,born,Diggory Ewart,u351091,u344737
+1915,u358383,born,Ariel Seaver-Corey,u353153,u344748
+1915,u358398,born,Chloë Kimberly,u350488,u351775
+1915,u358406,born,Stacie Ackerman,u350621,u349465
+1915,u358423,born,Dannie Langley-Langley,u354128,u354427
+1915,u358429,born,Shayne Ewart,u351972,u345619
+1915,u358436,born,Darryl Yates,u353278,u345994
+1915,u358437,born,Kathlyn Ackerman,u349911,u349712
+1915,u337916,died
+1915,u339973,died
+1915,u344781,died
+1915,u356113,died
+1915,u356721,died
+1915,u357227,died
+1915,u357416,died
+1915,u357428,died
+1915,u358179,died
+1915,u358195,died
+1915,u358346,died
+1916,u358594,born,Lynsay Kimberly,u350488,u351775
+1916,u358595,born,Candyce Yates,u353278,u345994
+1916,u358605,born,Lynsay Ewart,u351972,u345619
+1916,u358607,born,Margo Mills,u354163,u351787
+1916,u358609,born,Tisha Langley-Langley,u354128,u354427
+1916,u358612,born,Viona Ackerman,u350621,u349465
+1916,u358617,born,Silver Carlyle,u353153,u344748
+1916,u358653,born,Elisa Ewart,u351091,u344737
+1916,u355476,died
+1916,u357824,died
+1916,u357982,died
+1916,u358176,died
+1916,u358190,died
+1917,u358803,born,Dannie Mills,u354163,u351787
+1917,u358805,born,Sullivan Ewart,u351972,u345619
+1917,u358807,born,Elisa Ackerman,u350621,u349465
+1917,u358817,born,Gordon Yates,u353278,u345994
+1917,u358847,born,Bethel Langley-Langley,u354128,u354427
+1917,u358869,born,Darren Kimberly,u350488,u351775
+1917,u342721,died
+1917,u357587,died
+1917,u357788,died
+1917,u357980,died
+1917,u358026,died
+1917,u358327,died
+1918,u359044,born,Brannon Ackerman,u350621,u349465
+1918,u359046,born,Forest Yates,u353278,u345994
+1918,u359050,born,Lacey Langley-Langley,u354128,u354427
+1918,u359069,born,Florrie Crawford,---,---
+1918,u359178,born,Lee Ewart,u351972,u345619
+1918,u359212,born,Meriel Ackerman,u352154,u352311
+1918,u341260,died
+1918,u356959,died
+1918,u357209,died
+1918,u357781,died
+1918,u358228,died
+1918,u358238,died
+1918,u358398,died
+1918,u358406,died
+1918,u358423,died
+1918,u358653,died
+1918,u358869,died
+1919,u359285,born,Trey Yates,u353278,u345994
+1919,u359292,born,Viona Ackerman,u352154,u352311
+1919,u359295,born,Tawnee Ewart,u351972,u345619
+1919,u359302,born,Tisha Langley-Langley,u354128,u354427
+1919,u359371,born,Bryanne Brinley,---,---
+1919,u359426,born,Tranter Paternoster,---,---
+1919,u359441,born,Forest Falconer,u355632,u352506
+1919,u341137,died
+1919,u342492,died
+1919,u355384,died
+1919,u356992,died
+1919,u357586,died
+1919,u357784,died
+1919,u357979,died
+1919,u357987,died
+1919,u358192,died
+1919,u358380,died
+1919,u358803,died
+1919,u359069,died
+1920,u359519,born,Carrol Langley-Langley,u354128,u354427
+1920,u359521,born,Gregg Ackerman,u352154,u352311
+1920,u359543,born,Allyn Seaver-Corey,u353153,u348707
+1920,u359544,born,Jamison Ewart,u351972,u345619
+1920,u359586,born,Gypsy Falconer,u355632,u352506
+1920,u359588,born,Tisha Yates,u353278,u345994
+1920,u341142,died
+1920,u356982,died
+1920,u358377,died
+1920,u358383,died
+1920,u358607,died
+1921,u359732,born,Silver Christopherson,u355632,u352506
+1921,u359736,born,Michael Langley-Langley,u354128,u354427
+1921,u359752,born,Viona Ackerman-Fay,u352154,u352311
+1921,u359756,born,Tisha Killam,u353153,u348707
+1921,u359766,born,Ella Yates,u353278,u345994
+1921,u359926,born,Beckham Mills,u356084,u351787
+1921,u341153,died
+1921,u346014,died
+1921,u356727,died
+1921,u357592,died
+1921,u358612,died
+1921,u358805,died
+1921,u359046,died
+1921,u359426,died
+1921,u359441,died
+1922,u359936,born,Maurine Mills,u356084,u351787
+1922,u359939,born,Caelan Seaver-Corey,u353153,u348707
+1922,u359941,born,Shannon Yates,u353278,u345994
+1922,u359971,born,Chasity Ackerman,u352154,u352311
+1922,u359973,born,Caelan Langley-Langley,u354128,u354427
+1922,u359980,born,Carran Falconer,u355632,u352506
+1922,u340598,died
+1922,u341617,died
+1922,u357808,died
+1922,u358617,died
+1922,u359285,died
+1922,u359732,died
+1923,u360173,born,Orville Mills,u356084,u351787
+1923,u360185,born,Joss Langley-Langley,u354128,u354427
+1923,u360208,born,Marlon Seaver-Corey,u353153,u348707
+1923,u360218,born,Carran Ackerman,u352154,u352311
+1923,u360243,born,Lorrie Falconer,u355632,u352506
+1923,u344737,died
+1923,u358429,died
+1923,u359050,died
+1923,u359178,died
+1923,u359543,died
+1923,u359939,died
+1924,u360431,born,Bryanne Mills,u356084,u351787
+1924,u360437,born,Lacey Seaver-Corey,u353153,u348707
+1924,u360441,born,Cullen Langley-Langley,u354128,u354427
+1924,u360442,born,Malone Ackerman,u352154,u352311
+1924,u360489,born,Florrie Falconer,u355632,u352506
+1924,u360690,born,Sienna Ackerman,u353276,u352175
+1924,u358436,died
+1924,u358807,died
+1924,u358847,died
+1924,u359292,died
+1924,u359756,died
+1925,u360698,born,Desirae Seaver-Corey,u353153,u348707
+1925,u360700,born,Brannon Ackerman,u352154,u352311
+1925,u360709,born,Lacey Mills,u356084,u351787
+1925,u360757,born,Bud Langley-Langley,u354128,u354427
+1925,u360792,born,Joss Ackerman,u353276,u352175
+1925,u360840,born,Dillan Falconer,u355632,u352506
+1925,u345994,died
+1925,u357454,died
+1925,u357796,died
+1925,u358000,died
+1925,u359544,died
+1925,u359588,died
+1925,u360442,died
+1926,u360966,born,Clifton Langley-Langley,u354128,u354427
+1926,u360973,born,Carrol Falconer,u355632,u352506
+1926,u360978,born,Retha Mills,u356084,u351787
+1926,u360983,born,Carmen Beverley,---,---
+1926,u360996,born,Tisha Seaver-Corey,u353153,u348707
+1926,u361013,born,Louis Ackerman,u353276,u352175
+1926,u361070,born,Maurine Turner,---,---
+1926,u359371,died
+1926,u359519,died
+1926,u359521,died
+1926,u360173,died
+1926,u360243,died
+1926,u360441,died
+1926,u360757,died
+1927,u361229,born,Ariel Falconer,u355632,u352506
+1927,u361242,born,Carrol Ackerman,u353276,u352175
+1927,u361247,born,Shannon Seaver-Corey,u353153,u348707
+1927,u361259,born,Hepsie Langley-Langley,u354128,u354427
+1927,u361310,born,Kayden Corey,u356521,u349471
+1927,u361351,born,Bud Mills,u356084,u351787
+1927,u361374,born,Crew Seaver-Corey,u357391,u353090
+1927,u342432,died
+1927,u346481,died
+1927,u359295,died
+1927,u359302,died
+1927,u359752,died
+1927,u360185,died
+1927,u360218,died
+1927,u360431,died
+1927,u360489,died
+1927,u360996,died
+1928,u361520,born,Tisha Langley-Langley,u354128,u354427
+1928,u361527,born,Clifton Seaver-Corey,u357391,u353090
+1928,u361530,born,Dillan Carlyle,u353153,u348707
+1928,u361539,born,Clint Corey,u356521,u349471
+1928,u361543,born,Gregg Falconer,u355632,u352506
+1928,u361546,born,Merit Ackerman,u356308,u356719
+1928,u361561,born,Joss Ackerman,u353276,u352175
+1928,u361571,born,Genie Pound,---,---
+1928,u361789,born,Margo Ewart,u353278,u357585
+1928,u343846,died
+1928,u345826,died
+1928,u358183,died
+1928,u358233,died
+1928,u359736,died
+1928,u359936,died
+1928,u360208,died
+1928,u360978,died
+1928,u361310,died
+1929,u361806,born,Ariel Ackerman,u356308,u356719
+1929,u361814,born,Margo Langley-Langley,u354128,u354427
+1929,u361816,born,Tawnee Ewart,u353278,u357585
+1929,u361821,born,Cali Ackerman,u353276,u352175
+1929,u361830,born,Darian Teel,---,---
+1929,u361848,born,Silver Falconer,u355632,u352506
+1929,u361850,born,Shayne Seaver-Corey,u353153,u348707
+1929,u361862,born,Carrol Corey,u356521,u349471
+1929,u361905,born,Marlon Noel-Ewart,u357418,u350143
+1929,u359766,died
+1929,u360698,died
+1929,u361247,died
+1929,u361259,died
+1930,u362075,born,Sienna Ackerman,u356308,u356719
+1930,u362076,born,Dillan Langley-Langley,u354128,u354427
+1930,u362078,born,Keira Mills,u357839,u351787
+1930,u362088,born,Crew Rigby,u355632,u352506
+1930,u362090,born,Ariel Ackerman,u353276,u352175
+1930,u362091,born,Gypsy Seaver-Corey,u353153,u348707
+1930,u362107,born,Keira Jameson-Jameson,---,---
+1930,u362143,born,Allyn Ewart,u353278,u357585
+1930,u362153,born,Shannon Noel-Ewart,u357418,u350143
+1930,u362181,born,Meade Woodrow-Corey,u356084,u357617
+1930,u362183,born,Diggory Corey,u356521,u349471
+1930,u342946,died
+1930,u344947,died
+1930,u346975,died
+1930,u359586,died
+1930,u360709,died
+1930,u360792,died
+1930,u361013,died
+1930,u361070,died
+1930,u361229,died
+1930,u361527,died
+1931,u362329,born,Candyce Ewart,u357400,u358210
+1931,u362330,born,Viona Trengove,u353276,u352175
+1931,u362335,born,Debby Woodrow-Corey,u356084,u357617
+1931,u362337,born,Tahnee Noel-Ewart,u357418,u350143
+1931,u362339,born,Erin Ewart,u353278,u357585
+1931,u362341,born,Cletus Noel-Ewart,u354891,u349551
+1931,u362347,born,Travis Falconer,u355632,u352506
+1931,u362419,born,Michael Langley-Langley,u354128,u354427
+1931,u362464,born,Eliana Ackerman,u356308,u356719
+1931,u343203,died
+1931,u343824,died
+1931,u359044,died
+1931,u360840,died
+1931,u360983,died
+1931,u361561,died
+1931,u361821,died
+1931,u362076,died
+1931,u362090,died
+1932,u362566,born,Dannie Langley-Langley,u354128,u354427
+1932,u362580,born,Dillan Ewart,u357400,u358210
+1932,u362591,born,Crew Falconer,u355632,u352506
+1932,u362601,born,Grady Woodrow-Corey,u356084,u357617
+1932,u362614,born,Trey Noel-Ewart,u354891,u349551
+1932,u362631,born,Joselyn Noel-Ewart,u357418,u350143
+1932,u362652,born,Shayne Ackerman,u356308,u356719
+1932,u362809,born,Darian Ewart,u356521,u356600
+1932,u359971,died
+1932,u361242,died
+1932,u361374,died
+1932,u361543,died
+1932,u361789,died
+1932,u361816,died
+1932,u361905,died
+1932,u362078,died
+1933,u362813,born,Ariel Noel-Ewart,u357418,u350143
+1933,u362820,born,Eldon Noel-Ewart,u354891,u349551
+1933,u362823,born,Cali Falconer,u355632,u352506
+1933,u362828,born,Carran Ewart,u357400,u358210
+1933,u362831,born,Eliana Langley-Langley,u354128,u354427
+1933,u362832,born,Carmen Ackerman,u356308,u356719
+1933,u362838,born,Meriel Ewart,u356521,u356600
+1933,u362839,born,Retha Woodrow-Corey,u356084,u357617
+1933,u362933,born,Harold Seaver-Corey,u357839,u354139
+1933,u343922,died
+1933,u344748,died
+1933,u345417,died
+1933,u345839,died
+1933,u361806,died
+1933,u361814,died
+1933,u362091,died
+1933,u362107,died
+1933,u362341,died
+1933,u362419,died
+1933,u362809,died
+1934,u363071,born,Tisha Falconer,u355632,u352506
+1934,u363072,born,Darryl Ackerman,u356308,u356719
+1934,u363089,born,Merit Langley-Langley,u354128,u354427
+1934,u363093,born,Louis Noel-Ewart,u357418,u350143
+1934,u363097,born,Kassandra Ewart,u356508,u355864
+1934,u363107,born,Jenny Seaver-Corey,u357839,u354139
+1934,u363129,born,Carran Noel-Ewart,u354891,u349551
+1934,u363143,born,Ricky Woodrow-Corey,u356084,u357617
+1934,u363154,born,Drake Ewart,u357400,u358210
+1934,u363156,born,Travis Mills,u357391,u351968
+1934,u363157,born,Kassandra Ewart,u356521,u356600
+1934,u361848,died
+1934,u362153,died
+1934,u362181,died
+1934,u362347,died
+1934,u362566,died
+1934,u362601,died
+1934,u362828,died
+1935,u363323,born,Brannon Seaver-Corey,u357839,u354139
+1935,u363328,born,Erin Noel-Ewart,u357418,u350143
+1935,u363330,born,Chasity Mills,u357391,u351968
+1935,u363331,born,Shannon Ewart,u356521,u356600
+1935,u363332,born,Sondra Southgate,u355632,u352506
+1935,u363336,born,Debby Woodrow-Corey,u356084,u357617
+1935,u363348,born,Lee Noel-Ewart,u354891,u349551
+1935,u363356,born,Shannon Howland,u357400,u358210
+1935,u363357,born,Ian Ackerman,u356308,u356719
+1935,u363358,born,Elisa Ewart,u356508,u355864
+1935,u363386,born,Desirae Langley-Langley,u354128,u354427
+1935,u363476,born,Tawnee Corey,u358605,u353928
+1935,u343933,died
+1935,u345429,died
+1935,u345651,died
+1935,u360437,died
+1935,u360966,died
+1935,u362143,died
+1935,u362183,died
+1935,u362335,died
+1935,u362339,died
+1935,u362813,died
+1935,u363129,died
+1936,u363581,born,Kayden Ewart,u356508,u355864
+1936,u363582,born,Clint Seaver-Corey,u357839,u354139
+1936,u363583,born,Carran Ewart-Foster,u357400,u358210
+1936,u363584,born,Viona Ewart,u356521,u356600
+1936,u363587,born,Maurine Turner,u357391,u351968
+1936,u363589,born,Allyn Falconer,u355632,u352506
+1936,u363592,born,Kolton Noel-Ewart,u354891,u349551
+1936,u363593,born,Eliot Ackerman,u356308,u356719
+1936,u363602,born,Gypsy Corey,u358605,u353928
+1936,u363612,born,Shayne Woodrow-Corey,u356084,u357617
+1936,u363613,born,Carran Noel-Ewart,u357418,u350143
+1936,u357839,died
+1936,u361530,died
+1936,u362330,died
+1936,u362823,died
+1936,u362839,died
+1936,u363328,died
+1936,u363476,died
+1937,u363822,born,Dannie Noel-Ewart,u354891,u349551
+1937,u363824,born,Tranter Falconer,u355632,u352506
+1937,u363829,born,Lorrie Noel-Ewart,u357418,u350143
+1937,u363830,born,Jamison Ewart,u357400,u358210
+1937,u363834,born,Gwenda Ewart,u356521,u356600
+1937,u363839,born,Brannon Corey,u358605,u353928
+1937,u363845,born,Gwenda Mills,u357391,u351968
+1937,u363847,born,Braiden Ewart,u356508,u355864
+1937,u363854,born,Alexandrina Woodrow-Corey,u356084,u357617
+1937,u363927,born,Ellington Ackerman-Ackerman,u356308,u356719
+1937,u345274,died
+1937,u362591,died
+1937,u363072,died
+1937,u363089,died
+1937,u363331,died
+1937,u363332,died
+1937,u363357,died
+1937,u363582,died
+1938,u364069,born,Cali Falconer,u355632,u352506
+1938,u364072,born,Darian Mills,u357391,u351968
+1938,u364081,born,Eldon Baines,u356508,u355864
+1938,u364083,born,Elisa Noel-Ewart,u357418,u350143
+1938,u364093,born,Merlyn Adams,u354891,u349551
+1938,u364094,born,Tisha Ewart,u357400,u358210
+1938,u364098,born,Eliana Woodrow-Corey,u356084,u357617
+1938,u364103,born,Crew Ewart,u356521,u356600
+1938,u364106,born,Ibbie Ackerman,u356308,u356719
+1938,u362088,died
+1938,u362337,died
+1938,u363143,died
+1938,u363581,died
+1938,u363593,died
+1938,u363602,died
+1938,u363613,died
+1938,u363824,died
+1938,u363854,died
+1939,u364299,born,Cali Noel-Ewart,u357418,u350143
+1939,u364303,born,Kassandra Woodrow-Corey,u356084,u357617
+1939,u364312,born,Margo Ewart,u357400,u358210
+1939,u364319,born,Genie Ackerman,u356508,u355864
+1939,u364326,born,Trey Mills,u357391,u351968
+1939,u364330,born,Sienna Ackerman,u356308,u356719
+1939,u364334,born,Allyn Falconer,u355632,u352506
+1939,u362464,died
+1939,u363093,died
+1939,u363156,died
+1939,u363584,died
+1939,u363592,died
+1939,u364072,died
+1940,u364534,born,Allyn Ewart,u356508,u355864
+1940,u364536,born,Beckham Woodrow-Corey,u356084,u357617
+1940,u364544,born,Trey Ackerman,u356308,u356719
+1940,u364545,born,Gwenda Noel-Ewart,u357418,u350143
+1940,u364559,born,Darian Ewart-Foster,u357400,u358210
+1940,u364566,born,Flanagan Falconer,u355632,u352506
+1940,u364591,born,Eliot Mills,u357391,u351968
+1940,u364682,born,Malone Mills,u357977,u359926
+1940,u346186,died
+1940,u352506,died
+1940,u361830,died
+1940,u363847,died
+1940,u364093,died
+1940,u364103,died
+1940,u364106,died
+1941,u364788,born,Viona Ewart,u358594,u357986
+1941,u364790,born,Gordon Mills,u357391,u351968
+1941,u364792,born,Stacie Mills,u357977,u359926
+1941,u364795,born,Ricky Ackerman,u356308,u356719
+1941,u364801,born,Crew Ewart,u356508,u355864
+1941,u364805,born,Genie Noel-Ewart,u357418,u350143
+1941,u364824,born,Lynsay Ewart,u357400,u358210
+1941,u364872,born,Shayne Woodrow-Corey,u356084,u357617
+1941,u364965,born,Debby Corey,u360690,u357203
+1941,u363845,died
+1941,u363927,died
+1941,u364303,died
+1941,u364312,died
+1941,u364330,died
+1941,u364545,died
+1941,u364566,died
+1942,u365030,born,Dannie Ewart,u358594,u357986
+1942,u365032,born,Joselyn Mills,u357977,u359926
+1942,u365035,born,Joe Corey,u360690,u357203
+1942,u365037,born,Tawnee Ackerman,u356308,u356719
+1942,u365038,born,Juniper Ewart,u356508,u355864
+1942,u365042,born,Brannon Mills,u357391,u351968
+1942,u365045,born,Darian Woodrow-Corey,u356084,u357617
+1942,u365074,born,Bud Ewart,u357400,u358210
+1942,u345427,died
+1942,u359941,died
+1942,u362329,died
+1942,u363336,died
+1942,u363386,died
+1942,u363583,died
+1942,u364536,died
+1942,u364790,died
+1943,u365254,born,Sondra Corey,u360690,u357203
+1943,u365255,born,Desirae Mills,u357391,u351968
+1943,u365258,born,Sienna Bunker,u356508,u355864
+1943,u365261,born,Gypsy Ackerman,u356308,u356719
+1943,u365282,born,Darian Ewart,u358594,u357986
+1943,u365284,born,Cali Mills,u357977,u359926
+1943,u365301,born,Carrol Ewart,u357400,u358210
+1943,u365343,born,Sondra Woodrow-Corey,u356084,u357617
+1943,u345631,died
+1943,u363587,died
+1943,u363589,died
+1943,u364334,died
+1943,u364788,died
+1943,u364801,died
+1943,u364872,died
+1943,u365045,died
+1944,u365453,born,Tamika Newell,u356308,u356719
+1944,u365465,born,Viona Mills,u357977,u359926
+1944,u365467,born,Louis Ewart,u357400,u358210
+1944,u365469,born,Retha Ewart,u356508,u355864
+1944,u365470,born,Ella Jacobson,u358594,u357986
+1944,u365482,born,Dannie Mills,u357391,u351968
+1944,u365485,born,Flanagan Corey,u360690,u357203
+1944,u345619,died
+1944,u361571,died
+1944,u363107,died
+1944,u364326,died
+1944,u364591,died
+1944,u365035,died
+1944,u365261,died
+1944,u365282,died
+1945,u365659,born,Grady Ewart,u356508,u355864
+1945,u365669,born,Darian Corey,u360690,u357203
+1945,u365676,born,Eliana Mills,u357977,u359926
+1945,u365678,born,Cali Mills,u357391,u351968
+1945,u365686,born,Shannon Ewart,u358594,u357986
+1945,u365835,born,Marvin Seaver-Corey,u356521,u354139
+1945,u349785,died
+1945,u350955,died
+1945,u362652,died
+1945,u363358,died
+1945,u363830,died
+1945,u363834,died
+1945,u364069,died
+1945,u364682,died
+1945,u364824,died
+1945,u365343,died
+1945,u365465,died
+1946,u365868,born,Brooklyn Mills,u357977,u359926
+1946,u365896,born,Ibbie Ewart,u358594,u357986
+1946,u365914,born,Gwenda Mills,u357391,u351968
+1946,u366018,born,Gwenda Corey,u360690,u357203
+1946,u362838,died
+1946,u363330,died
+1946,u364094,died
+1946,u364319,died
+1946,u364534,died
+1946,u364792,died
+1946,u365258,died
+1946,u365676,died
+1947,u366109,born,Merlyn Mills,u357977,u359926
+1947,u366120,born,Eldon Ewart,u358594,u357986
+1947,u366121,born,Leanna Corey,u360690,u357203
+1947,u366126,born,Marvin Mills,u357391,u351968
+1947,u366145,born,Bud Noel-Ackerman,u359212,u352914
+1947,u344618,died
+1947,u363071,died
+1948,u366350,born,Merlyn Ackerman,u360690,u354961
+1948,u366365,born,Lorrie Mills,u357391,u351968
+1948,u366369,born,Sienna Seaver-Corey,u361520,u361850
+1948,u366381,born,Odell Noel-Ackerman,u359212,u352914
+1948,u366408,born,Carran Mills,u357977,u359926
+1948,u366429,born,Eliot Ewart,u358594,u357986
+1948,u366542,born,Erin Corey,u358437,u353928
+1948,u345855,died
+1948,u365254,died
+1948,u365284,died
+1948,u365485,died
+1948,u365686,died
+1948,u366018,died
+1949,u366616,born,Retha Mills,u357391,u351968
+1949,u366623,born,Merlyn Ewart,u358594,u357986
+1949,u366624,born,Gwenda Corey,u358437,u353928
+1949,u366632,born,Gypsy Mills,u357977,u359926
+1949,u366634,born,Shayne Noel-Ackerman,u359212,u352914
+1949,u366650,born,Juniper Seaver-Corey,u361520,u361850
+1949,u366740,born,Kassandra Britton,u360690,u354961
+1949,u363154,died
+1949,u364805,died
+1949,u365030,died
+1949,u365038,died
+1949,u366120,died
+1949,u366145,died
+1949,u366365,died
+1949,u366429,died

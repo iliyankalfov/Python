@@ -1,0 +1,7 @@
+Partick,PTK
+Glasgow Queen Street,GLQ
+London Kings Cross,KGX
+Bearsden,BRN
+Milngavie,MLN
+Newcastle,NCL
+Edinburgh,EDB

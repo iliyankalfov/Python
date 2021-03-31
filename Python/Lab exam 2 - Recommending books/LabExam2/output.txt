@@ -1,0 +1,105 @@
+What is your name?: Francois
+How many recommendations?: 10
++++++++++++++++++++++++++++++++++++++++++++++++
+Recommending based on the similarity algorithm.
++++++++++++++++++++++++++++++++++++++++++++++++
+Books recommended by Cust1:
+Books recommended by Megan:
+	Inkheart, written by Cornelia Funke
+	Naruto, written by Masashi Kishimoto
+	To Kill a Mockingbird, written by Harper Lee
+	The Bourne Series, written by Robert Ludlum
+	Twilight Series, written by Stephenie Meyer
+	Holes, written by Louis Sachar
+	The War Of The Worlds, written by H G Wells
+Books recommended by Cust8:
+	Speak, written by Laurie Halse Anderson
+	The Sisterhood of the Travelling Pants, written by Ann Brashares
+	The Princess Diaries, written by Meg Cabot
+
+Similarity of other users with Francois:
+	Cust1:196
+	Megan:148
+	Cust8:148
+	Mike Williams:142
+	Shannon:139
+	Mike:134
+	Moose:127
+	Roflol:123
+	Andrew:122
+	Ben:120
+	Zax:114
+	Claire:112
+	Matt C:107
+	Ocelot:106
+	Douglas Anderson:100
+	Brian:100
+	Joe:97
+	Clipper:89
+	Cust6:87
+	Cust10:87
+	Tiffany:86
+	Sidney:84
+	Parseclaws:81
+	Jim C:81
+	Ender:75
+	Hidan:74
+	Mark:72
+	Mclean:69
+	Cust2:68
+	Narwhals:65
+	Keeled:61
+	Nathan:58
+	Hamza Ali:58
+	Rosanna:54
+	Cust7:54
+	Priscilla:53
+	James:53
+	Sage32:52
+	Cust5:52
+	Iren:51
+	Strongbad:42
+	Sanity:39
+	Reuven:39
+	Leslie:35
+	Snoosh:33
+	Pablo Sanchez:33
+	Yjam:32
+	Dude:31
+	Hideo:29
+	Cust9:29
+	Anna-Carol:27
+	Jaluka:24
+	I. Ned:24
+	Don Wang:24
+	Don Wang:24
+	Apollo:24
+	Crom:23
+	David:21
+	Martin:20
+	Ma:18
+	Ella:18
+	Zachary:17
+	Nunu:15
+	Harry Potter:15
+	Cust3:15
+	Boxxy:15
+	Rudy A:12
+	Sam:9
+	Dencellia:9
+	Brix:9
+	Huxil:6
+	Albus Dumbledore:6
+	Mclovin:3
+	Jeremy:3
+	Alexandra:3
+	Subria:2
+	Leah:0
+	Joshua:0
+	J-Rok:-4
+	Scream:-6
+	Rudy Ann:-6
+	Cedric Jones:-6
+	Chrispeh:-15
+	Cust4:-18
+	Tony:-80

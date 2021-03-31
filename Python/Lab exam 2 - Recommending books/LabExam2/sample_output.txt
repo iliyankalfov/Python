@@ -1,0 +1,106 @@
+What is your name? Ben
+How many recommendations? 10 
+
++++++++++++++++++++++++++++++++++++++++++++++++
+Recommending based on the similarity algorithm.
++++++++++++++++++++++++++++++++++++++++++++++++
+Books recommended by Claire:
+	 Watership Down, written by Richard Adams
+	 Lord of the Flies, written by William Golding
+	 Flowers For Algernon, written by Daniel Keyes
+	 Sabriel, written by Garth Nix
+	 The Lord of the Rings, written by J R R Tolkien
+Books recommended by Tiffany:
+	 The Great Gatsby, written by F. Scott Fitzgerald
+	 The Princess Bride, written by William Goldman
+	 My Sister's Keeper, written by Jodi Picoult
+Books recommended by Megan:
+	 Naruto, written by Masashi Kishimoto
+	 The Bourne Series, written by Robert Ludlum
+
+
+Similarity of other users with Ben:
+	 Claire: 211
+	 Tiffany: 206
+	 Megan: 201
+	 Matt C: 200
+	 Roflol: 194
+	 Cust8: 191
+	 Shannon: 190
+	 Mike Williams: 154
+	 Reuven: 145
+	 Andrew: 143
+	 Sidney: 142
+	 Ocelot: 142
+	 Joe: 135
+	 Moose: 134
+	 Cust5: 134
+	 Mike: 129
+	 Douglas Anderson: 129
+	 Brian: 129
+	 Parseclaws: 126
+	 Iren: 123
+	 Francois: 120
+	 Cust1: 120
+	 Clipper: 120
+	 Hidan: 114
+	 Hideo: 110
+	 Mclean: 108
+	 Cust6: 105
+	 Narwhals: 104
+	 James: 104
+	 Keeled: 101
+	 Zax: 100
+	 Cust2: 90
+	 Strongbad: 82
+	 Snoosh: 81
+	 Leslie: 80
+	 Ender: 78
+	 Cust10: 77
+	 Zachary: 75
+	 I. Ned: 75
+	 Priscilla: 71
+	 Yjam: 68
+	 Subria: 67
+	 Cedric Jones: 64
+	 Don Wang: 62
+	 Jim C: 60
+	 Cust3: 60
+	 Albus Dumbledore: 60
+	 Joshua: 58
+	 Dude: 58
+	 Cust7: 55
+	 Mark: 54
+	 Nathan: 49
+	 Hamza Ali: 49
+	 Sage32: 45
+	 Rudy A: 44
+	 Sanity: 43
+	 Martin: 40
+	 Pablo Sanchez: 38
+	 Scream: 35
+	 Boxxy: 35
+	 Rosanna: 32
+	 Anna-Carol: 31
+	 Nunu: 30
+	 J-Rok: 27
+	 Ella: 27
+	 Dencellia: 26
+	 Cust9: 26
+	 Harry Potter: 25
+	 Huxil: 23
+	 Rudy Ann: 17
+	 Crom: 17
+	 Ma: 15
+	 Jeremy: 10
+	 Alexandra: 10
+	 Sam: 6
+	 Jaluka: 6
+	 Leah: 0
+	 Chrispeh: -2
+	 Apollo: -2
+	 Mclovin: -13
+	 Brix: -13
+	 David: -15
+	 Cust4: -45
+	 Tony: -81

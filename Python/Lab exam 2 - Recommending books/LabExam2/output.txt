@@ -1,5 +1,6 @@
-What is your name?: Francois
-How many recommendations?: 10
+What is your name? Francois
+How many recommendations? 10
+
 +++++++++++++++++++++++++++++++++++++++++++++++
 Recommending based on the similarity algorithm.
 +++++++++++++++++++++++++++++++++++++++++++++++

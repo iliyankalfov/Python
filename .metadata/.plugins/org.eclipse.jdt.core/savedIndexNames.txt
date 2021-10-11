@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\kalfo\Documents\University2\JP2\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2846002608.index
-4143120213.index

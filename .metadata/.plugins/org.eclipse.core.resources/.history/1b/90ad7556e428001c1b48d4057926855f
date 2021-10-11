@@ -1,0 +1,25 @@
+
+public class Student {
+	private String name;
+	private int roll_no;
+	private String phone_number;
+	private String address;
+	
+	public Student(String name, int rn, String pn, String adr) {
+		this.name = name;
+		this.roll_no = rn;
+		this.phone_number = pn;
+		this.address = adr;
+	}
+	
+	public String toString(){
+	    return this.name + " is roll number: " + this.roll_no + " with phone number: " + this.phone_number + " and he lives on " + this.address;
+	}
+	
+	public static void main(String[] args) {
+		Student student_1 = new Student("Sam", 1, "07594917116", "48 Ancroft str.");
+		Student student_2 = new Student("John", 2, "07598231984", "54 Ancroft str.");
+		student_1.toString();
+		student_2.toString();
+	}
+}
